@@ -1,0 +1,18 @@
+{   "airline" : "Breeze Airways",
+    "iata" : "MX",
+    "icao" : "MXY",
+    "callsign" : "MOXY",
+    "website" : "flybreeze.com",
+    "logo" : "https://www.flybreeze.com/assets/images/Logo.svg",
+    "aircraft" : [
+        {
+            "type": "",
+            "registration": "",
+            "delivery_date": "",
+            "hex": "",
+            "msn": ,
+            "ln": ,
+            "fn":
+        }
+    ]
+}
