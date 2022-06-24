@@ -1,6 +1,6 @@
 [
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N203BZ",
         "delivery_date": "2021-12-17",
@@ -9,7 +9,7 @@
         "fn": 203
     },
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N204BZ",
         "delivery_date": "2022-03-04",
@@ -18,7 +18,7 @@
         "fn": 204
     },
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N206BZ",
         "delivery_date": "2022-04-01",
@@ -27,7 +27,7 @@
         "fn": 206
     },
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N208BZ",
         "delivery_date": "2022-04-27",
@@ -36,7 +36,7 @@
         "fn": 208
     },
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N211BZ",
         "delivery_date": "2022-06-02",
@@ -45,7 +45,7 @@
         "fn": 211
     },
     {
-        "operater": "Breeze Airways"
+        "operater": "Breeze Airways",
         "type": "BCS3",
         "registration": "N213BZ",
         "delivery_date": "2022-06-11",
