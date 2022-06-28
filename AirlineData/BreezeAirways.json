@@ -1,5 +1,11 @@
 {
     "airline": "Breeze Airways",
+    "country": "United States",
+    "website": "flybreeze.com",
+    "iata": "MX",
+    "icao": "MXY",
+    "callsign": "MOXY",
+    "fleet_size": 19,
     "aircraft": [{
             "type":"BCS3",
             "registration":"N203BZ",
