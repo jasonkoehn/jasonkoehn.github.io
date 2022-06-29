@@ -6,7 +6,7 @@
         "name":"United Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
     },{
-        "name":"American Airways",
+        "name":"American Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
     },{
         "name":"Southwest Airlines",
