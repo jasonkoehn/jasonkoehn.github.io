@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Airlines"[{
         "name":"Breeze Airways",
         "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
     },{
@@ -17,5 +17,5 @@
     },{
         "name":"Alaska Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
-    }
-]
+    }]
+}
