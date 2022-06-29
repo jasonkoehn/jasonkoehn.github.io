@@ -1,27 +1,21 @@
 {
     "airlines": [{
-        "name":"Breeze Airways",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
-        "hex":"132ABC"
-    },{
-        "name":"United Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
-        "hex":"345GBV"
+        "name":"Alaska Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json"
     },{
         "name":"American Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
-        "hex":"456QWE"
+        "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json"
     },{
-        "name":"Southwest Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
-        "hex":"789ABC"
+        "name":"Breeze Airways",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json"
     },{
         "name":"Delta Air Lines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
-        "hex":"132XYZ"
+        "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json"
     },{
-        "name":"Alaska Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
-        "hex":"987XZY"
+        "name":"Southwest Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json"
+    },{
+        "name":"United Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json"
     }]
 }
