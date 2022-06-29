@@ -1,8 +1,8 @@
 {
-    "airline": "Breeze Airways",
+    "airline": "Delta Air Lines",
     "country": "United States",
     "website": "flybreeze.com",
-    "iata": "MX",
+    "iata": "DL",
     "icao": "MXY",
     "callsign": "MOXY",
     "fleet_size": 19,

@@ -1,9 +1,9 @@
 {
-    "airline": "Breeze Airways",
+    "airline": "United Airlines",
     "country": "United States",
     "website": "flybreeze.com",
-    "iata": "MX",
-    "icao": "MXY",
+    "iata": "UA",
+    "icao": "UAL",
     "callsign": "MOXY",
     "fleet_size": 19,
     "aircraft": [{
