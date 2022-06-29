@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Breeze Airways",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
+    },{
+        "name":"United Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
+    },{
+        "name":"American Airways",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
+    },{
+        "name":"Southwest Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
+    },{
+        "name":"Delta Air Lines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
+    },{
+        "name":"Alaska Airlines",
+        "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
+    }
+]
