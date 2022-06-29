@@ -1,5 +1,5 @@
 {
-    "Airlines"[{
+    "Airlines":[{
         "name":"Breeze Airways",
         "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
         "hex":"132ABC"
