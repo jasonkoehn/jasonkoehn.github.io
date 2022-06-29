@@ -1,9 +1,5 @@
 {
     "airlines": [{
-        "name":"Alaska Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
-        "hex": "A1"
-    },{
         "name":"American Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
         "hex": "B2"
@@ -14,14 +10,8 @@
     },{
         "name":"Delta Air Lines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
-        "hex": "D4"
     },{
         "name":"Southwest Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
-        "hex": "E5"
-    },{
-        "name":"United Airlines",
-        "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
-        "hex": "F6"
     }]
 }
