@@ -1,58 +1,64 @@
 {
     "airline": "Alaska Airlines",
     "country": "United States",
-    "website": "flybreeze.com",
+    "website": "alaskaair.com",
     "iata": "AS",
-    "icao": "MXY",
-    "callsign": "MOXY",
-    "fleet_size": 19,
+    "icao": "ASA",
+    "callsign": "ALASKA",
+    "fleet_size": 340,
     "aircraft": [{
-            "type":"BCS3",
-            "registration":"N203BZ",
-            "delivery_date":"2021-12-17",
-            "hex":"A19D59",
-            "msn":55128,
-            "fn":203
+            "type":"B39M",
+            "registration":"N913AK",
+            "delivery_date":"2021-01-24",
+            "hex":"ACA1DA",
+            "msn":44079,
+            "ln":7598,
+            "fn":913
         },
         {
-            "type":"BCS3",
-            "registration":"N204BZ",
-            "delivery_date":"2022-03-04",
-            "hex":"A1A110",
-            "msn":55137,
-            "fn":204
+            "type":"B39M",
+            "registration":"N915AK",
+            "delivery_date":"2021-03-22",
+            "hex":"ACA948",
+            "msn":44080,
+            "ln":7682,
+            "fn":915
         },
         {
-            "type":"BCS3",
-            "registration":"N206BZ",
-            "delivery_date":"2022-04-01",
-            "hex":"A1A87E",
-            "msn":55143,
-            "fn":206
+            "type":"B39M",
+            "registration":"N918AK",
+            "delivery_date":"2021-02-20",
+            "hex":"ACB46D",
+            "msn":44083,
+            "ln":7836,
+            "fn":918
         },
         {
-            "type":"BCS3",
-            "registration":"N208BZ",
-            "delivery_date":"2022-04-27",
-            "hex":"A1AFEC",
-            "msn":55148,
-            "fn":208
+            "type":"B39M",
+            "registration":"N919AK",
+            "delivery_date":"2021-03-08",
+            "hex":"ACB824",
+            "msn":44087,
+            "ln":7961,
+            "fn":919
         },
         {
-            "type":"BCS3",
-            "registration":"N211BZ",
-            "delivery_date":"2022-06-02",
-            "hex":"A1BD6A",
-            "msn":55151,
-            "fn":211
+            "type":"B39M",
+            "registration":"N920AK",
+            "delivery_date":"2021-09-20",
+            "hex":"ACBE34",
+            "msn":44086,
+            "ln":8119,
+            "fn":920
         },
         {
-            "type":"BCS3",
-            "registration":"N213BZ",
-            "delivery_date":"2022-06-11",
-            "hex":"A1C4D8",
-            "msn":55156,
-            "fn":213
+            "type":"B39M",
+            "registration":"N291BT",
+            "delivery_date":"2021-06-28",
+            "hex":"A2F95C",
+            "msn":44088,
+            "ln":8066,
+            "fn":291
         }
     ]
 }
