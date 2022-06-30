@@ -2,32 +2,32 @@
     "airlines": [{
         "name":"Alaska Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/AlaskaAirlines.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/AlaskaAirlinesSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlinesSquare.png"
     },{
         "name":"American Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/AmericanAirlines.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/AmericanAirlinesSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/AmericanAirlines.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/AmericanAirlinesSquare.png"
     },{
         "name":"Breeze Airways",
         "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/BreezeAirways.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/BreezeAirwaysSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/BreezeAirways.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/BreezeAirwaysSquare.png"
     },{
         "name":"Delta Air Lines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/DeltaAirLines.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/DeltaAirLinesSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/DeltaAirLines.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/DeltaAirLinesSquare.png"
     },{
         "name":"Southwest Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/SouthwestAirlines.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/SouthwestAirlinesSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/SouthwestAirlines.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/SouthwestAirlinesSquare.png"
     },{
         "name":"United Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
-        "picture_url":"jasonkoehn.github.io/AirlineData/Logos/UnitedAirlines.png",
-        "square_url":"jasonkoehn.github.io/AirlineData/Logos/UnitedAirlinesSquare.png"
+        "picture_url":"jasonkoehn.github.io/AirlineData/UnitedAirlines.png",
+        "square_url":"jasonkoehn.github.io/AirlineData/UnitedAirlinesSquare.png"
     }]
 }
