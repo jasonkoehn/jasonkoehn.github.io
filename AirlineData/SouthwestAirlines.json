@@ -1,58 +1,82 @@
 {
     "airline": "Southwest Airlines",
     "country": "United States",
-    "website": "flybreeze.com",
-    "iata": "SW",
+    "website": "southwest.com",
+    "iata": "WN",
     "icao": "SWA",
-    "callsign": "MOXY",
-    "fleet_size": 19,
+    "callsign": "SOUTHWEST",
+    "fleet_size": 735,
     "aircraft": [{
             "type":"B38M",
-            "registration":"N203BZ",
-            "delivery_date":"2021-12-17",
-            "hex":"A19D59",
-            "msn":55128,
-            "fn":203
+            "registration":"N8701Q",
+            "delivery_date":"2018-06-20",
+            "hex":"ABF8E0",
+            "msn":42554,
+            "ln":5602,
+            "fn":8701
         },
         {
             "type":"B38M",
-            "registration":"N204BZ",
-            "delivery_date":"2022-03-04",
-            "hex":"A1A110",
-            "msn":55137,
-            "fn":204
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
         },
         {
             "type":"B38M",
-            "registration":"N206BZ",
-            "delivery_date":"2022-04-01",
-            "hex":"A1A87E",
-            "msn":55143,
-            "fn":206
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
         },
         {
             "type":"B38M",
-            "registration":"N208BZ",
-            "delivery_date":"2022-04-27",
-            "hex":"A1AFEC",
-            "msn":55148,
-            "fn":208
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
         },
         {
             "type":"B38M",
-            "registration":"N211BZ",
-            "delivery_date":"2022-06-02",
-            "hex":"A1BD6A",
-            "msn":55151,
-            "fn":211
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
         },
         {
             "type":"B38M",
-            "registration":"N213BZ",
-            "delivery_date":"2022-06-11",
-            "hex":"A1C4D8",
-            "msn":55156,
-            "fn":213
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
+        },
+        {
+            "type":"B38M",
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
+        },
+        {
+            "type":"B38M",
+            "registration":"N8702L",
+            "delivery_date":"2018-10-01",
+            "hex":"ABF8FF",
+            "msn":36989,
+            "ln":5668,
+            "fn":8702
         }
     ]
 }
