@@ -7,7 +7,7 @@
     "callsign": "MOXY",
     "fleet_size": 19,
     "aircraft": [{
-            "type":"BCS3",
+            "type":"BCS1",
             "registration":"N203BZ",
             "delivery_date":"2021-12-17",
             "hex":"A19D59",
@@ -15,7 +15,7 @@
             "fn":203
         },
         {
-            "type":"BCS3",
+            "type":"BCS1",
             "registration":"N204BZ",
             "delivery_date":"2022-03-04",
             "hex":"A1A110",
@@ -23,7 +23,7 @@
             "fn":204
         },
         {
-            "type":"BCS3",
+            "type":"BCS1",
             "registration":"N206BZ",
             "delivery_date":"2022-04-01",
             "hex":"A1A87E",
