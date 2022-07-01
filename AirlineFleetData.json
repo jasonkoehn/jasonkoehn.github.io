@@ -1,0 +1,145 @@
+{
+    "airlines": [
+        {
+            "airline":"Alaska Airlines"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "AS",
+                "icao": "ASA",
+                "callsign": "ALASKA",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
+                "aircraft": [
+                    {
+                        "type": "B39M",
+                        "registration": "N913AK",
+                        "delivery_date": "2021-01-24",
+                        "hex": "ACA1DA",
+                        "msn": 44079,
+                        "ln": 7598,
+                        "fn": 913
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N915AK",
+                        "delivery_date": "2021-03-22",
+                        "hex": "ACA948",
+                        "msn": 44080,
+                        "ln": 7682,
+                        "fn": 915
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N918AK",
+                        "delivery_date": "2021-02-20",
+                        "hex": "ACB46D",
+                        "msn": 44083,
+                        "ln": 7836,
+                        "fn": 918
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N919AK",
+                        "delivery_date": "2021-03-08",
+                        "hex": "ACB824",
+                        "msn": 44087,
+                        "ln": 7961,
+                        "fn": 919
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N920AK",
+                        "delivery_date": "2021-09-20",
+                        "hex": "ACBE34",
+                        "msn": 44086,
+                        "ln": 8119,
+                        "fn": 920
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N291BT",
+                        "delivery_date": "2021-06-28",
+                        "hex": "A2F95C",
+                        "msn": 44088,
+                        "ln": 8066,
+                        "fn": 291
+                    },
+                    {
+                        "type": "B39M",
+                        "registration": "N921AK",
+                        "delivery_date": "2021-09-27",
+                        "hex": "ACC1EB",
+                        "msn": 43337,
+                        "ln": 8124,
+                        "fn": 921
+                    }
+                ]
+            }
+        },{
+            "airline":"American Airlines"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "AA",
+                "icao": "AAL",
+                "callsign": "ALASKA",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/AmericanAirlines.png",
+                "aircraft": [
+                    
+                ]
+            }
+        },{
+            "airline":"Breeze Airways"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "MX",
+                "icao": "MXY",
+                "callsign": "MOXY",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/BreezeAirways.png",
+                "aircraft": [
+                    
+                ]
+            }
+        },{
+            "airline":"Delta Air Lines"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "DL",
+                "icao": "DAL",
+                "callsign": "ALASKA",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/DeltaAirLines.png",
+                "aircraft": [
+                    
+                ]
+            }
+        },{
+            "airline":"Southwest Airlines"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "WN",
+                "icao": "SWA",
+                "callsign": "ALASKA",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/SouthwestAirlines.png",
+                "aircraft": [
+                    
+                ]
+            }
+        },{
+            "airline":"United Airlines"{
+                "country": "United States",
+                "website": "alaskaair.com",
+                "iata": "UA",
+                "icao": "UAL",
+                "callsign": "ALASKA",
+                "fleet_size": 340,
+                "picture_url":"jasonkoehn.github.io/AirlineData/UnitedAirlines.png",
+                "aircraft": [
+                    
+                ]
+            }
+        }
+    ]
+}
