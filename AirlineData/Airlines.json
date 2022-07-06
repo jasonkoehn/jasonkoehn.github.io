@@ -1,5 +1,10 @@
 [{
         "name":"Alaska Airlines",
+        "website": "alaskaair.com",
+  "iata": "AS",
+  "icao": "ASA",
+  "callsign": "ALASKA",
+  "fleet_size": 340,
         "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
         "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
         "square_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlinesSquare.png"
