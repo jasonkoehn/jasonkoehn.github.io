@@ -1,5 +1,4 @@
-{
-    "airlines": [{
+[{
         "name":"Alaska Airlines",
         "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
         "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
@@ -29,5 +28,6 @@
         "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
         "picture_url":"jasonkoehn.github.io/AirlineData/UnitedAirlines.png",
         "square_url":"jasonkoehn.github.io/AirlineData/UnitedAirlinesSquare.png"
-    }]
-}
+    }
+    ]
+
