@@ -1,257 +1,256 @@
-{
-    "airlines": [
-        {
-            "airline":"Alaska Airlines"{
-                "country": "United States",
-                "website": "alaskaair.com",
-                "iata": "AS",
-                "icao": "ASA",
-                "callsign": "ALASKA",
-                "fleet_size": 340,
-                "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
-                "aircraft": [
-                    {
-                        "type": "B39M",
-                        "registration": "N913AK",
-                        "delivery_date": "2021-01-24",
-                        "hex": "ACA1DA",
-                        "msn": 44079,
-                        "ln": 7598,
-                        "fn": 913
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N915AK",
-                        "delivery_date": "2021-03-22",
-                        "hex": "ACA948",
-                        "msn": 44080,
-                        "ln": 7682,
-                        "fn": 915
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N918AK",
-                        "delivery_date": "2021-02-20",
-                        "hex": "ACB46D",
-                        "msn": 44083,
-                        "ln": 7836,
-                        "fn": 918
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N919AK",
-                        "delivery_date": "2021-03-08",
-                        "hex": "ACB824",
-                        "msn": 44087,
-                        "ln": 7961,
-                        "fn": 919
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N920AK",
-                        "delivery_date": "2021-09-20",
-                        "hex": "ACBE34",
-                        "msn": 44086,
-                        "ln": 8119,
-                        "fn": 920
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N291BT",
-                        "delivery_date": "2021-06-28",
-                        "hex": "A2F95C",
-                        "msn": 44088,
-                        "ln": 8066,
-                        "fn": 291
-                    },
-                    {
-                        "type": "B39M",
-                        "registration": "N921AK",
-                        "delivery_date": "2021-09-27",
-                        "hex": "ACC1EB",
-                        "msn": 43337,
-                        "ln": 8124,
-                        "fn": 921
-                    }
-                ]
-            }
-        },{
-            "airline":"American Airlines"{
-                "country": "United States",
-                "website": "alaskaair.com",
-                "iata": "AA",
-                "icao": "AAL",
-                "callsign": "ALASKA",
-                "fleet_size": 340,
-                "picture_url":"jasonkoehn.github.io/AirlineData/AmericanAirlines.png",
-                "aircraft": [
-                    {
-                        "type":"B38M",
-                        "registration":"N8701Q",
-                        "delivery_date":"2018-06-20",
-                        "hex":"ABF8E0",
-                        "msn":42554,
-                        "ln":5602,
-                        "fn":8701
-                    }
-                ]
-            }
-        },{
-            "airline":"Breeze Airways"{
-                "country": "United States",
-                "website": "alaskaair.com",
-                "iata": "MX",
-                "icao": "MXY",
-                "callsign": "MOXY",
-                "fleet_size": 340,
-                "picture_url":"jasonkoehn.github.io/AirlineData/BreezeAirways.png",
-                "aircraft": [
-                    {
-                        "type":"B38M",
-                        "registration":"N8701Q",
-                        "delivery_date":"2018-06-20",
-                        "hex":"ABF8E0",
-                        "msn":42554,
-                        "ln":5602,
-                        "fn":8701
-                    }
-                ]
-            }
-        },{
-            "airline":"Delta Air Lines"{
-                "country": "United States",
-                "website": "alaskaair.com",
-                "iata": "DL",
-                "icao": "DAL",
-                "callsign": "ALASKA",
-                "fleet_size": 340,
-                "picture_url":"jasonkoehn.github.io/AirlineData/DeltaAirLines.png",
-                "aircraft": [
-                    {
-                        "type":"B38M",
-                        "registration":"N8701Q",
-                        "delivery_date":"2018-06-20",
-                        "hex":"ABF8E0",
-                        "msn":42554,
-                        "ln":5602,
-                        "fn":8701
-                    }
-                ]
-            }
-        },{
-            "airline":"Southwest Airlines"{
-                "country": "United States",
-                "website": "southwest.com",
-                "iata": "WN",
-                "icao": "SWA",
-                "callsign": "SOUTHWEST",
-                "fleet_size": 735,
-                "picture_url":"jasonkoehn.github.io/AirlineData/SouthwestAirlines.png",
-                "aircraft": [
-                    {
-                        "type":"B38M",
-                        "registration":"N8701Q",
-                        "delivery_date":"2018-06-20",
-                        "hex":"ABF8E0",
-                        "msn":42554,
-                        "ln":5602,
-                        "fn":8701
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8702L",
-                        "delivery_date":"2018-10-01",
-                        "hex":"ABF8FF",
-                        "msn":36989,
-                        "ln":5668,
-                        "fn":8702
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8704Q",
-                        "delivery_date":"2017-12-27",
-                        "hex":"ABF949",
-                        "msn":36988,
-                        "ln":5788,
-                        "fn":8704
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8705Q",
-                        "delivery_date":"2017-09-07",
-                        "hex":"ABF96C",
-                        "msn":42558,
-                        "ln":5852,
-                        "fn":8705
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8706W",
-                        "delivery_date":"2017-09-15",
-                        "hex":"ABF995",
-                        "msn":42559,
-                        "ln":5902,
-                        "fn":8706
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8707P",
-                        "delivery_date":"2017-09-25",
-                        "hex":"ABF9B1",
-                        "msn":36929,
-                        "ln":5992,
-                        "fn":8707
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8708Q",
-                        "delivery_date":"2017-09-08",
-                        "hex":"ABF9D5",
-                        "msn":42566,
-                        "ln":6074,
-                        "fn":8708
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8709Q",
-                        "delivery_date":"2017-09-27",
-                        "hex":"ABF9F8",
-                        "msn":42563,
-                        "ln":6154,
-                        "fn":8709
-                    },
-                    {
-                        "type":"B38M",
-                        "registration":"N8710M",
-                        "delivery_date":"2017-08-29",
-                        "hex":"ABFC71",
-                        "msn":42567,
-                        "ln":6188,
-                        "fn":8710
-                    }
-                ]
-            }
-        },{
-            "airline":"United Airlines"{
-                "country": "United States",
-                "website": "alaskaair.com",
-                "iata": "UA",
-                "icao": "UAL",
-                "callsign": "ALASKA",
-                "fleet_size": 340,
-                "picture_url":"jasonkoehn.github.io/AirlineData/UnitedAirlines.png",
-                "aircraft": [
-                    {
-                        "type":"B38M",
-                        "registration":"N8701Q",
-                        "delivery_date":"2018-06-20",
-                        "hex":"ABF8E0",
-                        "msn":42554,
-                        "ln":5602,
-                        "fn":8701
-                    }
-                ]
-            }
+[
+    {
+        "airline":"Alaska Airlines"{
+            "country": "United States",
+            "website": "alaskaair.com",
+            "iata": "AS",
+            "icao": "ASA",
+            "callsign": "ALASKA",
+            "fleet_size": 340,
+            "picture_url":"jasonkoehn.github.io/AirlineData/AlaskaAirlines.png",
+            "aircraft": [
+                {
+                    "type": "B39M",
+                    "registration": "N913AK",
+                    "delivery_date": "2021-01-24",
+                    "hex": "ACA1DA",
+                    "msn": 44079,
+                    "ln": 7598,
+                    "fn": 913
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N915AK",
+                    "delivery_date": "2021-03-22",
+                    "hex": "ACA948",
+                    "msn": 44080,
+                    "ln": 7682,
+                    "fn": 915
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N918AK",
+                    "delivery_date": "2021-02-20",
+                    "hex": "ACB46D",
+                    "msn": 44083,
+                    "ln": 7836,
+                    "fn": 918
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N919AK",
+                    "delivery_date": "2021-03-08",
+                    "hex": "ACB824",
+                    "msn": 44087,
+                    "ln": 7961,
+                    "fn": 919
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N920AK",
+                    "delivery_date": "2021-09-20",
+                    "hex": "ACBE34",
+                    "msn": 44086,
+                    "ln": 8119,
+                    "fn": 920
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N291BT",
+                    "delivery_date": "2021-06-28",
+                    "hex": "A2F95C",
+                    "msn": 44088,
+                    "ln": 8066,
+                    "fn": 291
+                },
+                {
+                    "type": "B39M",
+                    "registration": "N921AK",
+                    "delivery_date": "2021-09-27",
+                    "hex": "ACC1EB",
+                    "msn": 43337,
+                    "ln": 8124,
+                    "fn": 921
+                }
+            ]
         }
-    ]
-}
+    },{
+        "airline":"American Airlines"{
+            "country": "United States",
+            "website": "alaskaair.com",
+            "iata": "AA",
+            "icao": "AAL",
+            "callsign": "ALASKA",
+            "fleet_size": 340,
+            "picture_url":"jasonkoehn.github.io/AirlineData/AmericanAirlines.png",
+            "aircraft": [
+                {
+                    "type":"B38M",
+                    "registration":"N8701Q",
+                    "delivery_date":"2018-06-20",
+                    "hex":"ABF8E0",
+                    "msn":42554,
+                    "ln":5602,
+                    "fn":8701
+                }
+            ]
+        }
+    },{
+        "airline":"Breeze Airways"{
+            "country": "United States",
+            "website": "alaskaair.com",
+            "iata": "MX",
+            "icao": "MXY",
+            "callsign": "MOXY",
+            "fleet_size": 340,
+            "picture_url":"jasonkoehn.github.io/AirlineData/BreezeAirways.png",
+            "aircraft": [
+                {
+                    "type":"B38M",
+                    "registration":"N8701Q",
+                    "delivery_date":"2018-06-20",
+                    "hex":"ABF8E0",
+                    "msn":42554,
+                    "ln":5602,
+                    "fn":8701
+                }
+            ]
+        }
+    },{
+        "airline":"Delta Air Lines"{
+            "country": "United States",
+            "website": "alaskaair.com",
+            "iata": "DL",
+            "icao": "DAL",
+            "callsign": "ALASKA",
+            "fleet_size": 340,
+            "picture_url":"jasonkoehn.github.io/AirlineData/DeltaAirLines.png",
+            "aircraft": [
+                {
+                    "type":"B38M",
+                    "registration":"N8701Q",
+                    "delivery_date":"2018-06-20",
+                    "hex":"ABF8E0",
+                    "msn":42554,
+                    "ln":5602,
+                    "fn":8701
+                }
+            ]
+        }
+    },{
+        "airline":"Southwest Airlines"{
+            "country": "United States",
+            "website": "southwest.com",
+            "iata": "WN",
+            "icao": "SWA",
+            "callsign": "SOUTHWEST",
+            "fleet_size": 735,
+            "picture_url":"jasonkoehn.github.io/AirlineData/SouthwestAirlines.png",
+            "aircraft": [
+                {
+                    "type":"B38M",
+                    "registration":"N8701Q",
+                    "delivery_date":"2018-06-20",
+                    "hex":"ABF8E0",
+                    "msn":42554,
+                    "ln":5602,
+                    "fn":8701
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8702L",
+                    "delivery_date":"2018-10-01",
+                    "hex":"ABF8FF",
+                    "msn":36989,
+                    "ln":5668,
+                    "fn":8702
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8704Q",
+                    "delivery_date":"2017-12-27",
+                    "hex":"ABF949",
+                    "msn":36988,
+                    "ln":5788,
+                    "fn":8704
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8705Q",
+                    "delivery_date":"2017-09-07",
+                    "hex":"ABF96C",
+                    "msn":42558,
+                    "ln":5852,
+                    "fn":8705
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8706W",
+                    "delivery_date":"2017-09-15",
+                    "hex":"ABF995",
+                    "msn":42559,
+                    "ln":5902,
+                    "fn":8706
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8707P",
+                    "delivery_date":"2017-09-25",
+                    "hex":"ABF9B1",
+                    "msn":36929,
+                    "ln":5992,
+                    "fn":8707
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8708Q",
+                    "delivery_date":"2017-09-08",
+                    "hex":"ABF9D5",
+                    "msn":42566,
+                    "ln":6074,
+                    "fn":8708
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8709Q",
+                    "delivery_date":"2017-09-27",
+                    "hex":"ABF9F8",
+                    "msn":42563,
+                    "ln":6154,
+                    "fn":8709
+                },
+                {
+                    "type":"B38M",
+                    "registration":"N8710M",
+                    "delivery_date":"2017-08-29",
+                    "hex":"ABFC71",
+                    "msn":42567,
+                    "ln":6188,
+                    "fn":8710
+                }
+            ]
+        }
+    },{
+        "airline":"United Airlines"{
+            "country": "United States",
+            "website": "alaskaair.com",
+            "iata": "UA",
+            "icao": "UAL",
+            "callsign": "ALASKA",
+            "fleet_size": 340,
+            "picture_url":"jasonkoehn.github.io/AirlineData/UnitedAirlines.png",
+            "aircraft": [
+                {
+                    "type":"B38M",
+                    "registration":"N8701Q",
+                    "delivery_date":"2018-06-20",
+                    "hex":"ABF8E0",
+                    "msn":42554,
+                    "ln":5602,
+                    "fn":8701
+                }
+            ]
+        }
+    }
+]
+ 
