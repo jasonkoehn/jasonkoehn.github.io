@@ -40,6 +40,16 @@
         "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json"
     },
     {
+        "name":"JetBlue Airways",
+        "country": "United States",
+        "website": "jetblue.com",
+        "iata": "B6",
+        "icao": "JBU",
+        "callsign": "JETBLUE",
+        "fleet_size": 285,
+        "data_url":"https://jasonkoehn.github.io/AirlineData/JetBlueAirways.json"
+    },
+    {
         "name":"Southwest Airlines",
         "country": "United States",
         "website": "southwest.com",
