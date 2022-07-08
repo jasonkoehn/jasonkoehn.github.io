@@ -1,6 +1,7 @@
 [
     {
         "type":"BCS1",
+        "model":"Boeing 737 MAX 8",
         "registration":"N203BZ",
         "delivery_date":"2021-12-17",
         "hex":"A19D59",
@@ -10,6 +11,7 @@
     },
     {
         "type":"BCS1",
+        "model":"Boeing 737 MAX 8",
         "registration":"N204BZ",
         "delivery_date":"2022-03-04",
         "hex":"A1A110",
@@ -19,6 +21,7 @@
     },
     {
         "type":"BCS1",
+        "model":"Boeing 737 MAX 8",
         "registration":"N206BZ",
         "delivery_date":"2022-04-01",
         "hex":"A1A87E",
@@ -28,6 +31,7 @@
     },
     {
         "type":"BCS3",
+        "model":"Boeing 737 MAX 8",
         "registration":"N208BZ",
         "delivery_date":"2022-04-27",
         "hex":"A1AFEC",
@@ -37,6 +41,7 @@
     },
     {
         "type":"BCS3",
+        "model":"Boeing 737 MAX 8",
         "registration":"N211BZ",
         "delivery_date":"2022-06-02",
         "hex":"A1BD6A",
@@ -46,6 +51,7 @@
     },
     {
         "type":"BCS3",
+        "model":"Boeing 737 MAX 8",
         "registration":"N213BZ",
         "delivery_date":"2022-06-11",
         "hex":"A1C4D8",

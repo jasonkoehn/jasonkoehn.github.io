@@ -1,6 +1,7 @@
 [
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N913AK",
         "delivery_date": "2021-01-24",
         "hex": "ACA1DA",
@@ -10,6 +11,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N915AK",
         "delivery_date": "2021-03-22",
         "hex": "ACA948",
@@ -19,6 +21,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N918AK",
         "delivery_date": "2021-02-20",
         "hex": "ACB46D",
@@ -28,6 +31,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N919AK",
         "delivery_date": "2021-03-08",
         "hex": "ACB824",
@@ -37,6 +41,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N920AK",
         "delivery_date": "2021-09-20",
         "hex": "ACBE34",
@@ -46,6 +51,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N291BT",
         "delivery_date": "2021-06-28",
         "hex": "A2F95C",
@@ -55,6 +61,7 @@
     },
     {
         "type": "B39M",
+        "model":"Boeing 737 MAX 9",
         "registration": "N921AK",
         "delivery_date": "2021-09-27",
         "hex": "ACC1EB",
