@@ -7,7 +7,8 @@
         "icao": "ASA",
         "callsign": "ALASKA",
         "fleet_size": 340,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/AlaskaAirlines.png"
     },
     {
         "name":"American Airlines",
@@ -17,7 +18,8 @@
         "icao": "AAL",
         "callsign": "AMERICAN",
         "fleet_size": 915,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/AmericanAirlines.png"
     },
     {
         "name":"Breeze Airways",
@@ -27,7 +29,8 @@
         "icao": "MXY",
         "callsign": "MOXY",
         "fleet_size": 19,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/BreezeAirways.png"
     },
     {
         "name":"Delta Air Lines",
@@ -37,7 +40,8 @@
         "icao": "DAL",
         "callsign": "DELTA",
         "fleet_size": 878,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/DeltaAirLines.png"
     },
     {
         "name":"JetBlue Airways",
@@ -47,7 +51,8 @@
         "icao": "JBU",
         "callsign": "JETBLUE",
         "fleet_size": 285,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/JetBlueAirways.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/JetBlueAirways.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/JetBlueAirways.png"
     },
     {
         "name":"Southwest Airlines",
@@ -57,7 +62,8 @@
         "icao": "SWA",
         "callsign": "SOUTHWEST",
         "fleet_size": 735,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/SouthwestAirlines.png"
     },
     {
         "name":"United Airlines",
@@ -67,7 +73,8 @@
         "icao": "UAL",
         "callsign": "UNITED",
         "fleet_size": 843,
-        "data_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json"
+        "fleet_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
+        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/UnitedAirlines.png"
     }
 ]
  
