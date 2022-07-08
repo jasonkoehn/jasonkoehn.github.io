@@ -1,6 +1,7 @@
 [
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8701Q",
         "delivery_date":"2018-06-20",
         "hex":"ABF8E0",
@@ -10,6 +11,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8702L",
         "delivery_date":"2018-10-01",
         "hex":"ABF8FF",
@@ -19,6 +21,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8704Q",
         "delivery_date":"2017-12-27",
         "hex":"ABF949",
@@ -28,6 +31,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8705Q",
         "delivery_date":"2017-09-07",
         "hex":"ABF96C",
@@ -37,6 +41,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8706W",
         "delivery_date":"2017-09-15",
         "hex":"ABF995",
@@ -46,6 +51,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8707P",
         "delivery_date":"2017-09-25",
         "hex":"ABF9B1",
@@ -55,6 +61,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8708Q",
         "delivery_date":"2017-09-08",
         "hex":"ABF9D5",
@@ -64,6 +71,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8709Q",
         "delivery_date":"2017-09-27",
         "hex":"ABF9F8",
@@ -73,6 +81,7 @@
     },
     {
         "type":"B38M",
+        "model":"Boeing 737 MAX 8",
         "registration":"N8710M",
         "delivery_date":"2017-08-29",
         "hex":"ABFC71",
