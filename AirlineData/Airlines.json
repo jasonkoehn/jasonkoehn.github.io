@@ -108,15 +108,6 @@
         "alias": "SunCountryAirlines"
     },
     {
-        "name":"Alaska Airlines",
-        "country": "United States",
-        "website": "alaskaair.com",
-        "iata": "AS",
-        "icao": "ASA",
-        "callsign": "ALASKA",
-        "alias": "AlaskaAirlines"
-    },
-    {
         "name":"United Airlines",
         "country": "United States",
         "website": "united.com",
