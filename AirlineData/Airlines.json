@@ -24,7 +24,7 @@
         "iata": "AA",
         "icao": "AAL",
         "callsign": "AMERICAN",
-        "alias": "AlaskaAirlines"
+        "alias": "AmericanAirlines"
     },
     {
         "name":"Avelo Air",
@@ -42,7 +42,7 @@
         "iata": "MX",
         "icao": "MXY",
         "callsign": "MOXY",
-        "alias": "AlaskaAirlines"
+        "alias": "BreezeAirways"
     },
     {
         "name":"Delta Air Lines",
@@ -51,7 +51,7 @@
         "iata": "DL",
         "icao": "DAL",
         "callsign": "DELTA",
-        "alias": "AlaskaAirlines"
+        "alias": "DeltaAirLines"
     },
     {
         "name":"Frontier Airlines",
@@ -78,7 +78,7 @@
         "iata": "B6",
         "icao": "JBU",
         "callsign": "JETBLUE",
-        "alias": "AlaskaAirlines"
+        "alias": "JetBlueAirways"
     },
     {
         "name":"Southwest Airlines",
@@ -87,7 +87,7 @@
         "iata": "WN",
         "icao": "SWA",
         "callsign": "SOUTHWEST",
-        "alias": "AlaskaAirlines"
+        "alias": "SouthwestAirlines"
     },
     {
         "name":"Spirit Airlines",
@@ -114,7 +114,7 @@
         "iata": "UA",
         "icao": "UAL",
         "callsign": "UNITED",
-        "alias": "AlaskaAirlines"
+        "alias": "UnitedAirlines"
     }
 ]
  
