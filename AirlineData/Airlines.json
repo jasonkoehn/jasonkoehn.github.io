@@ -6,9 +6,16 @@
         "iata": "AS",
         "icao": "ASA",
         "callsign": "ALASKA",
-        "fleet_size": 340,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/AlaskaAirlines.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/AlaskaAirlines.png"
+        "alias": "AlaskaAirlines"
+    },
+    {
+        "name":"Allegiant Air",
+        "country": "United States",
+        "website": "allegiantair.com",
+        "iata": "G4",
+        "icao": "AAY",
+        "callsign": "ALLEGIANT",
+        "alias": "AllegiantAir"
     },
     {
         "name":"American Airlines",
@@ -17,9 +24,16 @@
         "iata": "AA",
         "icao": "AAL",
         "callsign": "AMERICAN",
-        "fleet_size": 915,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/AmericanAirlines.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/AmericanAirlines.png"
+        "alias": "AlaskaAirlines"
+    },
+    {
+        "name":"Avelo Air",
+        "country": "United States",
+        "website": "aveloair.com",
+        "iata": "XP",
+        "icao": "VXP",
+        "callsign": "AVELO",
+        "alias": "AveloAir"
     },
     {
         "name":"Breeze Airways",
@@ -28,9 +42,7 @@
         "iata": "MX",
         "icao": "MXY",
         "callsign": "MOXY",
-        "fleet_size": 19,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/BreezeAirways.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/BreezeAirways.png"
+        "alias": "AlaskaAirlines"
     },
     {
         "name":"Delta Air Lines",
@@ -39,9 +51,25 @@
         "iata": "DL",
         "icao": "DAL",
         "callsign": "DELTA",
-        "fleet_size": 878,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/DeltaAirLines.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/DeltaAirLines.png"
+        "alias": "AlaskaAirlines"
+    },
+    {
+        "name":"Frontier Airlines",
+        "country": "United States",
+        "website": "flyfrontier.com",
+        "iata": "F9",
+        "icao": "FFT",
+        "callsign": "FRONTIER FLIGHT",
+        "alias": "FrontierAirlines"
+    },
+    {
+        "name":"Hawaiian Airlines",
+        "country": "United States",
+        "website": "hawaiianairlines.com",
+        "iata": "HA",
+        "icao": "HAL",
+        "callsign": "HAWAIIAN",
+        "alias": "HawaiianAirlines"
     },
     {
         "name":"JetBlue Airways",
@@ -50,9 +78,7 @@
         "iata": "B6",
         "icao": "JBU",
         "callsign": "JETBLUE",
-        "fleet_size": 285,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/JetBlueAirways.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/JetBlueAirways.png"
+        "alias": "AlaskaAirlines"
     },
     {
         "name":"Southwest Airlines",
@@ -61,9 +87,25 @@
         "iata": "WN",
         "icao": "SWA",
         "callsign": "SOUTHWEST",
-        "fleet_size": 735,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/SouthwestAirlines.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/SouthwestAirlines.png"
+        "alias": "AlaskaAirlines"
+    },
+    {
+        "name":"Spirit Airlines",
+        "country": "United States",
+        "website": "spirit.com",
+        "iata": "NK",
+        "icao": "NKS",
+        "callsign": "SPIRIT WINGS",
+        "alias": "SpiritAirlines"
+    },
+    {
+        "name":"Sun Country Airlines",
+        "country": "United States",
+        "website": "suncountry.com",
+        "iata": "SY",
+        "icao": "SCX",
+        "callsign": "SUN COUNTRY",
+        "alias": "SunCountryAirlines"
     },
     {
         "name":"United Airlines",
@@ -72,9 +114,7 @@
         "iata": "UA",
         "icao": "UAL",
         "callsign": "UNITED",
-        "fleet_size": 843,
-        "fleet_url":"https://jasonkoehn.github.io/AirlineData/UnitedAirlines.json",
-        "picture_url":"https://jasonkoehn.github.io/AirlinePictures/UnitedAirlines.png"
+        "alias": "AlaskaAirlines"
     }
 ]
  
