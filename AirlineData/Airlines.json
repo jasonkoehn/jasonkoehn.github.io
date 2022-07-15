@@ -197,4 +197,13 @@
         "callsign": "WESTJET",
         "alias": "WestJet"
     },
+    {
+        "name":"JSX",
+        "country": "Canada",
+        "website": "jsx.com",
+        "iata": "XE",
+        "icao": "JSX",
+        "callsign": "BIGSTRIPE",
+        "alias": "JSX"
+    },
 ]
