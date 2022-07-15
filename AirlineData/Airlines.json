@@ -115,6 +115,86 @@
         "icao": "UAL",
         "callsign": "UNITED",
         "alias": "UnitedAirlines"
-    }
+    },
+    {
+        "name":"Air Canada",
+        "country": "Canada",
+        "website": "aircanada.com",
+        "iata": "AC",
+        "icao": "ACA",
+        "callsign": "AIR CANADA",
+        "alias": "AirCanada"
+    },
+    {
+        "name":"Air Canada Rouge",
+        "country": "Canada",
+        "website": "aircanadarouge.com",
+        "iata": "RV",
+        "icao": "ROU",
+        "callsign": "ROUGE",
+        "alias": "AirCanadaRouge"
+    },
+    {
+        "name":"Air Transat",
+        "country": "Canada",
+        "website": "airtransat.com",
+        "iata": "TS",
+        "icao": "TSC",
+        "callsign": "AIR TRANSAT",
+        "alias": "AirTransat"
+    },
+    {
+        "name":"Flair Airlines",
+        "country": "Canada",
+        "website": "flyflair.com",
+        "iata": "F8",
+        "icao": "FLE",
+        "callsign": "FLAIR",
+        "alias": "FlairAirlines"
+    },
+    {
+        "name":"Lynx Air",
+        "country": "Canada",
+        "website": "flylynx.com",
+        "iata": "Y9",
+        "icao": "DAT",
+        "callsign": "DAUNTLESS",
+        "alias": "LynxAir"
+    },
+    {
+        "name":"Porter Airlines",
+        "country": "Canada",
+        "website": "flyporter.com",
+        "iata": "PD",
+        "icao": "POE",
+        "callsign": "PORTER AIR",
+        "alias": "PorterAirlines"
+    },
+    {
+        "name":"Sunwing Airlines",
+        "country": "Canada",
+        "website": "flysunwing.com",
+        "iata": "WG",
+        "icao": "SWG",
+        "callsign": "SUNWING",
+        "alias": "SunwingAirlines"
+    },
+    {
+        "name":"Swoop",
+        "country": "Canada",
+        "website": "flyswoop.com",
+        "iata": "WO",
+        "icao": "WSW",
+        "callsign": "SWOOP",
+        "alias": "Swoop"
+    },
+    {
+        "name":"WestJet",
+        "country": "Canada",
+        "website": "westjet.com",
+        "iata": "WS",
+        "icao": "WJA",
+        "callsign": "WESTJET",
+        "alias": "WestJet"
+    },
 ]
- 
