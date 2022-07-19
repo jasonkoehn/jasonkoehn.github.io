@@ -90,6 +90,66 @@
             "msn":42567,
             "ln":6188,
             "fn":8710
+        },
+        {
+            "type":"B737",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8709Q",
+            "delivery_date":"2017-09-27",
+            "hex":"ABF9F8",
+            "msn":42563,
+            "ln":6154,
+            "fn":8709
+        },
+        {
+            "type":"B737",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8710M",
+            "delivery_date":"2017-08-29",
+            "hex":"ABFC71",
+            "msn":42567,
+            "ln":6188,
+            "fn":8710
+        },
+        {
+            "type":"B738",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8709Q",
+            "delivery_date":"2017-09-27",
+            "hex":"ABF9F8",
+            "msn":42563,
+            "ln":6154,
+            "fn":8709
+        },
+        {
+            "type":"B738",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8710M",
+            "delivery_date":"2017-08-29",
+            "hex":"ABFC71",
+            "msn":42567,
+            "ln":6188,
+            "fn":8710
+        },
+        {
+            "type":"B37M",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8709Q",
+            "delivery_date":"2017-09-27",
+            "hex":"ABF9F8",
+            "msn":42563,
+            "ln":6154,
+            "fn":8709
+        },
+        {
+            "type":"B37M",
+            "model":"Boeing 737 MAX 8",
+            "registration":"N8710M",
+            "delivery_date":"2017-08-29",
+            "hex":"ABFC71",
+            "msn":42567,
+            "ln":6188,
+            "fn":8710
         }
     ]
 }
