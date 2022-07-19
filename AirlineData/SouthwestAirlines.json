@@ -1,4 +1,6 @@
-[
+
+"types":[{"type":"B737"},{"type":"B738"},{"type":"B37M"},{"type":"B38M"}]
+"aircraft":[
     {
         "type":"B38M",
         "model":"Boeing 737 MAX 8",
