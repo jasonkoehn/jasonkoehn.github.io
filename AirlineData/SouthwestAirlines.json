@@ -1,95 +1,92 @@
-{
-    "types":[{"type":"B737"},{"type":"B738"},{"type":"B37M"},{"type":"B38M"}]
-    "aircraft":[
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8701Q",
-            "delivery_date":"2018-06-20",
-            "hex":"ABF8E0",
-            "msn":42554,
-            "ln":5602,
-            "fn":8701
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8702L",
-            "delivery_date":"2018-10-01",
-            "hex":"ABF8FF",
-            "msn":36989,
-            "ln":5668,
-            "fn":8702
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8704Q",
-            "delivery_date":"2017-12-27",
-            "hex":"ABF949",
-            "msn":36988,
-            "ln":5788,
-            "fn":8704
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8705Q",
-            "delivery_date":"2017-09-07",
-            "hex":"ABF96C",
-            "msn":42558,
-            "ln":5852,
-            "fn":8705
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8706W",
-            "delivery_date":"2017-09-15",
-            "hex":"ABF995",
-            "msn":42559,
-            "ln":5902,
-            "fn":8706
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8707P",
-            "delivery_date":"2017-09-25",
-            "hex":"ABF9B1",
-            "msn":36929,
-            "ln":5992,
-            "fn":8707
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8708Q",
-            "delivery_date":"2017-09-08",
-            "hex":"ABF9D5",
-            "msn":42566,
-            "ln":6074,
-            "fn":8708
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8709Q",
-            "delivery_date":"2017-09-27",
-            "hex":"ABF9F8",
-            "msn":42563,
-            "ln":6154,
-            "fn":8709
-        },
-        {
-            "type":"B38M",
-            "model":"Boeing 737 MAX 8",
-            "registration":"N8710M",
-            "delivery_date":"2017-08-29",
-            "hex":"ABFC71",
-            "msn":42567,
-            "ln":6188,
-            "fn":8710
-        }
-    ]
-}
+[
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8701Q",
+        "delivery_date":"2018-06-20",
+        "hex":"ABF8E0",
+        "msn":42554,
+        "ln":5602,
+        "fn":8701
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8702L",
+        "delivery_date":"2018-10-01",
+        "hex":"ABF8FF",
+        "msn":36989,
+        "ln":5668,
+        "fn":8702
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8704Q",
+        "delivery_date":"2017-12-27",
+        "hex":"ABF949",
+        "msn":36988,
+        "ln":5788,
+        "fn":8704
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8705Q",
+        "delivery_date":"2017-09-07",
+        "hex":"ABF96C",
+        "msn":42558,
+        "ln":5852,
+        "fn":8705
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8706W",
+        "delivery_date":"2017-09-15",
+        "hex":"ABF995",
+        "msn":42559,
+        "ln":5902,
+        "fn":8706
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8707P",
+        "delivery_date":"2017-09-25",
+        "hex":"ABF9B1",
+        "msn":36929,
+        "ln":5992,
+        "fn":8707
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8708Q",
+        "delivery_date":"2017-09-08",
+        "hex":"ABF9D5",
+        "msn":42566,
+        "ln":6074,
+        "fn":8708
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8709Q",
+        "delivery_date":"2017-09-27",
+        "hex":"ABF9F8",
+        "msn":42563,
+        "ln":6154,
+        "fn":8709
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8",
+        "registration":"N8710M",
+        "delivery_date":"2017-08-29",
+        "hex":"ABFC71",
+        "msn":42567,
+        "ln":6188,
+        "fn":8710
+    }
+]
