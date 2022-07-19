@@ -1,72 +1,80 @@
-[
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N913AK",
-        "delivery_date": "2021-01-24",
-        "hex": "ACA1DA",
-        "msn": 44079,
-        "ln": 7598,
-        "fn": 913
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N915AK",
-        "delivery_date": "2021-03-22",
-        "hex": "ACA948",
-        "msn": 44080,
-        "ln": 7682,
-        "fn": 915
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N918AK",
-        "delivery_date": "2021-02-20",
-        "hex": "ACB46D",
-        "msn": 44083,
-        "ln": 7836,
-        "fn": 918
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N919AK",
-        "delivery_date": "2021-03-08",
-        "hex": "ACB824",
-        "msn": 44087,
-        "ln": 7961,
-        "fn": 919
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N920AK",
-        "delivery_date": "2021-09-20",
-        "hex": "ACBE34",
-        "msn": 44086,
-        "ln": 8119,
-        "fn": 920
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N291BT",
-        "delivery_date": "2021-06-28",
-        "hex": "A2F95C",
-        "msn": 44088,
-        "ln": 8066,
-        "fn": 291
-    },
-    {
-        "type": "B39M",
-        "model":"Boeing 737 MAX 9",
-        "registration": "N921AK",
-        "delivery_date": "2021-09-27",
-        "hex": "ACC1EB",
-        "msn": 43337,
-        "ln": 8124,
-        "fn": 921
-    }
-]
+{
+    "models":[
+        {
+            "type":"B39M",
+            "model":"Boeing 737 MAX 9"
+        }
+    ],
+    "aircraft":[
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N913AK",
+            "delivery_date": "2021-01-24",
+            "hex": "ACA1DA",
+            "msn": 44079,
+            "ln": 7598,
+            "fn": 913
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N915AK",
+            "delivery_date": "2021-03-22",
+            "hex": "ACA948",
+            "msn": 44080,
+            "ln": 7682,
+            "fn": 915
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N918AK",
+            "delivery_date": "2021-02-20",
+            "hex": "ACB46D",
+            "msn": 44083,
+            "ln": 7836,
+            "fn": 918
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N919AK",
+            "delivery_date": "2021-03-08",
+            "hex": "ACB824",
+            "msn": 44087,
+            "ln": 7961,
+            "fn": 919
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N920AK",
+            "delivery_date": "2021-09-20",
+            "hex": "ACBE34",
+            "msn": 44086,
+            "ln": 8119,
+            "fn": 920
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N291BT",
+            "delivery_date": "2021-06-28",
+            "hex": "A2F95C",
+            "msn": 44088,
+            "ln": 8066,
+            "fn": 291
+        },
+        {
+            "type": "B39M",
+            "model":"Boeing 737 MAX 9",
+            "registration": "N921AK",
+            "delivery_date": "2021-09-27",
+            "hex": "ACC1EB",
+            "msn": 43337,
+            "ln": 8124,
+            "fn": 921
+        }
+    ]
+}
