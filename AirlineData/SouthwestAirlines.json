@@ -96,7 +96,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8709Q",
             "delivery_date":"2017-09-27",
-            "hex":"ABF9F8",
+            "hex":"ABF990",
             "msn":42563,
             "ln":6154,
             "fn":8709
@@ -106,7 +106,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8710M",
             "delivery_date":"2017-08-29",
-            "hex":"ABFC71",
+            "hex":"ABFC45",
             "msn":42567,
             "ln":6188,
             "fn":8710
@@ -116,7 +116,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8709Q",
             "delivery_date":"2017-09-27",
-            "hex":"ABF9F8",
+            "hex":"ABF9M9",
             "msn":42563,
             "ln":6154,
             "fn":8709
@@ -126,7 +126,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8710M",
             "delivery_date":"2017-08-29",
-            "hex":"ABFC71",
+            "hex":"ABFC43",
             "msn":42567,
             "ln":6188,
             "fn":8710
@@ -136,7 +136,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8709Q",
             "delivery_date":"2017-09-27",
-            "hex":"ABF9F8",
+            "hex":"ABF9H5",
             "msn":42563,
             "ln":6154,
             "fn":8709
@@ -146,7 +146,7 @@
             "model":"Boeing 737 MAX 8",
             "registration":"N8710M",
             "delivery_date":"2017-08-29",
-            "hex":"ABFC71",
+            "hex":"ABFC23",
             "msn":42567,
             "ln":6188,
             "fn":8710
