@@ -247,7 +247,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N203BZ",
         "delivery_date":"2021-12-17",
-        "hex":"A19D59",
+        "hex":"A19DBG",
         "msn":55128,
         "ln":0,
         "fn":203
@@ -258,7 +258,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N204BZ",
         "delivery_date":"2022-03-04",
-        "hex":"A1A110",
+        "hex":"A1A10P",
         "msn":55137,
         "ln":0,
         "fn":204
@@ -269,7 +269,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N206BZ",
         "delivery_date":"2022-04-01",
-        "hex":"A1A87E",
+        "hex":"A1A85R",
         "msn":55143,
         "ln":0,
         "fn":206
@@ -280,7 +280,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N208BZ",
         "delivery_date":"2022-04-27",
-        "hex":"A1AFEC",
+        "hex":"A1AFAD",
         "msn":55148,
         "ln":0,
         "fn":208
@@ -291,7 +291,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N211BZ",
         "delivery_date":"2022-06-02",
-        "hex":"A1BD6A",
+        "hex":"A1BD65",
         "msn":55151,
         "ln":0,
         "fn":211
@@ -302,7 +302,7 @@
         "model":"Boeing 737 MAX 8",
         "registration":"N213BZ",
         "delivery_date":"2022-06-11",
-        "hex":"A1C4D8",
+        "hex":"A1C4D0",
         "msn":55156,
         "ln":0,
         "fn":213
