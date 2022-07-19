@@ -1,19 +1,19 @@
 {
     "models":[
         {
-            "type":"B737"
+            "type":"B737",
             "model":"Boeing 737-700"
         },
         {
-            "type":"B738"
+            "type":"B738",
             "model":"Boeing 737-800"
         },
         {
-            "type":"B37M"
+            "type":"B37M",
             "model":"Boeing 737 MAX 7"
         },
         {
-            "type":"B38M"
+            "type":"B38M",
             "model":"Boeing 737 MAX 8"
         }
     ],
