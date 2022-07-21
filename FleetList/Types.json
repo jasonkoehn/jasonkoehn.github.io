@@ -4,7 +4,7 @@
         "model":"Airbus A220-300"
     },
     {
-        "type":"B737"
+        "type":"B737",
         "model":"Boeing 737-700"
     },
     {
@@ -16,7 +16,7 @@
         "model":"Boeing 737-900"
     },
     {
-        "type":"B37M"
+        "type":"B37M",
         "model":"Boeing 737 MAX 7"
     },
     {
@@ -28,7 +28,7 @@
         "model":"Boeing 737 MAX 9"
     },
     {
-        "type":"A320"
+        "type":"A320",
         "model":"Airbus A320-200"
     },
     {
