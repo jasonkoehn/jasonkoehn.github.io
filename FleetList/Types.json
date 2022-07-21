@@ -1,0 +1,38 @@
+[
+    {
+        "type":"BCS3",
+        "model":"Airbus A220-300"
+    },
+    {
+        "type":"B737"
+        "model":"Boeing 737-700"
+    },
+    {
+        "type":"B738",
+        "model":"Boeing 737-800"
+    },
+    {
+        "type":"B739",
+        "model":"Boeing 737-900"
+    },
+    {
+        "type":"B37M"
+        "model":"Boeing 737 MAX 7"
+    },
+    {
+        "type":"B38M",
+        "model":"Boeing 737 MAX 8"
+    },
+    {
+        "type":"B39M",
+        "model":"Boeing 737 MAX 9"
+    },
+    {
+        "type":"A320"
+        "model":"Airbus A320-200"
+    },
+    {
+        "type":"A21N",
+        "model":"Airbus A321neo"
+    }
+]
