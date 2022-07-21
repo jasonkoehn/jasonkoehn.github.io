@@ -6,7 +6,7 @@
     "website" : "aircanada.com",
     "name" : "Air Canada",
     "icao" : "ACA",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "RV",
@@ -15,7 +15,7 @@
     "website" : "aircanadarouge.com",
     "name" : "Air Canada Rouge",
     "icao" : "ROU",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "TS",
@@ -24,7 +24,7 @@
     "website" : "airtransat.com",
     "name" : "Air Transat",
     "icao" : "TSC",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "AS",
@@ -33,7 +33,7 @@
     "website" : "alaskaair.com",
     "name" : "Alaska Airlines",
     "icao" : "ASA",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "A320", "model" : "Airbus A320-200"}, {"type" : "A21N", "model" : "Airbus A321neo"}, {"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B39M", "model" : "Boeing 737 MAX 9"}]
   },
   {
     "iata" : "G4",
@@ -42,7 +42,7 @@
     "website" : "allegiantair.com",
     "name" : "Allegiant Air",
     "icao" : "AAY",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "AA",
@@ -51,7 +51,7 @@
     "website" : "aa.com",
     "name" : "American Airlines",
     "icao" : "AAL",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "XP",
@@ -60,7 +60,7 @@
     "website" : "aveloair.com",
     "name" : "Avelo Air",
     "icao" : "VXP",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "MX",
@@ -69,7 +69,7 @@
     "website" : "flybreeze.com",
     "name" : "Breeze Airways",
     "icao" : "MXY",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "E190", "model" : "Embraer E190"}, {"type" : "E195", "model" : "Embraer E195"}, {"type" : "BCS3", "model" : "Airbus A220-300"}]
   },
   {
     "iata" : "DL",
@@ -78,7 +78,7 @@
     "website" : "delta.com",
     "name" : "Delta Air Lines",
     "icao" : "DAL",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "F8",
@@ -87,7 +87,7 @@
     "website" : "flyflair.com",
     "name" : "Flair Airlines",
     "icao" : "FLE",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "F9",
@@ -96,7 +96,7 @@
     "website" : "flyfrontier.com",
     "name" : "Frontier Airlines",
     "icao" : "FFT",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "HA",
@@ -105,7 +105,7 @@
     "website" : "hawaiianairlines.com",
     "name" : "Hawaiian Airlines",
     "icao" : "HAL",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "XE",
@@ -114,7 +114,7 @@
     "website" : "jsx.com",
     "name" : "JSX",
     "icao" : "JSX",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "B6",
@@ -123,7 +123,7 @@
     "website" : "jetblue.com",
     "name" : "JetBlue Airways",
     "icao" : "JBU",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "Y9",
@@ -132,7 +132,7 @@
     "website" : "flylynx.com",
     "name" : "Lynx Air",
     "icao" : "DAT",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "PD",
@@ -141,7 +141,7 @@
     "website" : "flyporter.com",
     "name" : "Porter Airlines",
     "icao" : "POE",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "WN",
@@ -159,7 +159,7 @@
     "website" : "spirit.com",
     "name" : "Spirit Airlines",
     "icao" : "NKS",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "SY",
@@ -168,7 +168,7 @@
     "website" : "suncountry.com",
     "name" : "Sun Country Airlines",
     "icao" : "SCX",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "WG",
@@ -177,7 +177,7 @@
     "website" : "flysunwing.com",
     "name" : "Sunwing Airlines",
     "icao" : "SWG",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "WO",
@@ -186,7 +186,7 @@
     "website" : "flyswoop.com",
     "name" : "Swoop",
     "icao" : "WSW",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
     "iata" : "UA",
@@ -195,7 +195,7 @@
     "website" : "united.com",
     "name" : "United Airlines",
     "icao" : "UAL",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
   },
   {
     "iata" : "WS",
@@ -204,6 +204,6 @@
     "website" : "westjet.com",
     "name" : "WestJet",
     "icao" : "WJA",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
+    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   }
 ]
