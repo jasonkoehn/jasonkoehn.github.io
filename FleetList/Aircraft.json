@@ -12,7 +12,7 @@
   {
     "delivery_date" : "2021-12-17",
     "hex" : "A19DBG",
-    "registration" : "N203BZ",
+    "registration" : "N203UA",
     "msn" : 55128,
     "operater" : "United Airlines",
     "fn" : 203,
@@ -32,7 +32,7 @@
   {
     "delivery_date" : "2022-03-04",
     "hex" : "A1A10P",
-    "registration" : "N204BZ",
+    "registration" : "N204UA",
     "msn" : 55137,
     "operater" : "United Airlines",
     "fn" : 204,
@@ -52,7 +52,7 @@
   {
     "delivery_date" : "2022-04-01",
     "hex" : "A1A85R",
-    "registration" : "N206BZ",
+    "registration" : "N206UA",
     "msn" : 55143,
     "operater" : "United Airlines",
     "fn" : 206,
@@ -72,7 +72,7 @@
   {
     "delivery_date" : "2022-04-27",
     "hex" : "A1AFAD",
-    "registration" : "N208BZ",
+    "registration" : "N208UA",
     "msn" : 55148,
     "operater" : "United Airlines",
     "fn" : 208,
@@ -92,7 +92,7 @@
   {
     "delivery_date" : "2022-06-02",
     "hex" : "A1BD65",
-    "registration" : "N211BZ",
+    "registration" : "N211UA",
     "msn" : 55151,
     "operater" : "United Airlines",
     "fn" : 211,
@@ -112,7 +112,7 @@
   {
     "delivery_date" : "2022-06-11",
     "hex" : "A1C4D0",
-    "registration" : "N213BZ",
+    "registration" : "N213UA",
     "msn" : 55156,
     "operater" : "United Airlines",
     "fn" : 213,
