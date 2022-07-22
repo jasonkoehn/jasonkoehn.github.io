@@ -10,7 +10,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2021-12-17",
+    "delivery_date" : "2021-12-18",
     "hex" : "A19DBG",
     "registration" : "N203UA",
     "msn" : 55128,
@@ -30,7 +30,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2022-03-04",
+    "delivery_date" : "2022-01-04",
     "hex" : "A1A10P",
     "registration" : "N204UA",
     "msn" : 55137,
@@ -50,7 +50,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2022-04-01",
+    "delivery_date" : "2022-04-09",
     "hex" : "A1A85R",
     "registration" : "N206UA",
     "msn" : 55143,
@@ -70,7 +70,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2022-04-27",
+    "delivery_date" : "2022-14-27",
     "hex" : "A1AFAD",
     "registration" : "N208UA",
     "msn" : 55148,
@@ -90,7 +90,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2022-06-02",
+    "delivery_date" : "2022-26-02",
     "hex" : "A1BD65",
     "registration" : "N211UA",
     "msn" : 55151,
@@ -110,7 +110,7 @@
     "type" : "BCS3"
   },
   {
-    "delivery_date" : "2022-06-11",
+    "delivery_date" : "2022-06-04",
     "hex" : "A1C4D0",
     "registration" : "N213UA",
     "msn" : 55156,
