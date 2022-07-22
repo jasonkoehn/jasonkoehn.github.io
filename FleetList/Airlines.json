@@ -24,7 +24,8 @@
     "website" : "airtransat.com",
     "name" : "Air Transat",
     "icao" : "TSC",
-    "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
+    "fleetsize" : 30,
+    "types" : [{"type" : "A321", "model" : "Airbus A321-200"}, {"type" : "A21N", "model" : "Airbus A321neo"}, {"type" : "A332", "model" : "Airbus A330-200"}, {"type" : "A333", "model" : "Airbus A330-300"}]
   },
   {
     "iata" : "AS",
