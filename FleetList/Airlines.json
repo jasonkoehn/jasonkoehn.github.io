@@ -6,6 +6,7 @@
     "website" : "aircanada.com",
     "name" : "Air Canada",
     "icao" : "ACA",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -15,6 +16,7 @@
     "website" : "aircanadarouge.com",
     "name" : "Air Canada Rouge",
     "icao" : "ROU",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -34,6 +36,7 @@
     "website" : "alaskaair.com",
     "name" : "Alaska Airlines",
     "icao" : "ASA",
+    "fleetsize" : 30,
     "types" : [{"type" : "A320", "model" : "Airbus A320-200"}, {"type" : "A21N", "model" : "Airbus A321neo"}, {"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B39M", "model" : "Boeing 737 MAX 9"}]
   },
   {
@@ -43,6 +46,7 @@
     "website" : "allegiantair.com",
     "name" : "Allegiant Air",
     "icao" : "AAY",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -52,6 +56,7 @@
     "website" : "aa.com",
     "name" : "American Airlines",
     "icao" : "AAL",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -70,6 +75,7 @@
     "website" : "flybreeze.com",
     "name" : "Breeze Airways",
     "icao" : "MXY",
+    "fleetsize" : 30,
     "types" : [{"type" : "E190", "model" : "Embraer E190"}, {"type" : "E195", "model" : "Embraer E195"}, {"type" : "BCS3", "model" : "Airbus A220-300"}]
   },
   {
@@ -79,6 +85,7 @@
     "website" : "delta.com",
     "name" : "Delta Air Lines",
     "icao" : "DAL",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -88,6 +95,7 @@
     "website" : "flyflair.com",
     "name" : "Flair Airlines",
     "icao" : "FLE",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -97,6 +105,7 @@
     "website" : "flyfrontier.com",
     "name" : "Frontier Airlines",
     "icao" : "FFT",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -106,6 +115,7 @@
     "website" : "hawaiianairlines.com",
     "name" : "Hawaiian Airlines",
     "icao" : "HAL",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -115,6 +125,7 @@
     "website" : "jsx.com",
     "name" : "JSX",
     "icao" : "JSX",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -124,6 +135,7 @@
     "website" : "jetblue.com",
     "name" : "JetBlue Airways",
     "icao" : "JBU",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -133,6 +145,7 @@
     "website" : "flylynx.com",
     "name" : "Lynx Air",
     "icao" : "DAT",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -142,6 +155,7 @@
     "website" : "flyporter.com",
     "name" : "Porter Airlines",
     "icao" : "POE",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -151,6 +165,7 @@
     "website" : "southwest.com",
     "name" : "Southwest Airlines",
     "icao" : "SWA",
+    "fleetsize" : 735,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}, {"type" : "B37M", "model" : "Boeing 737 MAX 7"}, {"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
   },
   {
@@ -160,6 +175,7 @@
     "website" : "spirit.com",
     "name" : "Spirit Airlines",
     "icao" : "NKS",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -169,6 +185,7 @@
     "website" : "suncountry.com",
     "name" : "Sun Country Airlines",
     "icao" : "SCX",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -178,6 +195,7 @@
     "website" : "flysunwing.com",
     "name" : "Sunwing Airlines",
     "icao" : "SWG",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -187,6 +205,7 @@
     "website" : "flyswoop.com",
     "name" : "Swoop",
     "icao" : "WSW",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   },
   {
@@ -196,6 +215,7 @@
     "website" : "united.com",
     "name" : "United Airlines",
     "icao" : "UAL",
+    "fleetsize" : 30,
     "types" : [{"type" : "B38M", "model" : "Boeing 737 MAX 8"}]
   },
   {
@@ -205,6 +225,7 @@
     "website" : "westjet.com",
     "name" : "WestJet",
     "icao" : "WJA",
+    "fleetsize" : 30,
     "types" : [{"type" : "B737", "model" : "Boeing 737-700"}, {"type" : "B738", "model" : "Boeing 737-800"}]
   }
 ]
