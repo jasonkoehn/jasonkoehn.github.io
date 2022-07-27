@@ -1,0 +1,440 @@
+[
+  {
+    "callsign" : "AIR CANADA",
+    "country" : "Canada",
+    "website" : "aircanada.com",
+    "icao" : "ACA",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "AC",
+    "name" : "Air Canada"
+  },
+  {
+    "callsign" : "ROUGE",
+    "country" : "Canada",
+    "website" : "aircanadarouge.com",
+    "icao" : "ROU",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "RV",
+    "name" : "Air Canada Rouge"
+  },
+  {
+    "callsign" : "AIR TRANSAT",
+    "country" : "Canada",
+    "website" : "airtransat.com",
+    "icao" : "TSC",
+    "types" : [
+      {
+        "type" : "A321",
+        "model" : "Airbus A321-200"
+      },
+      {
+        "type" : "A21N",
+        "model" : "Airbus A321neo"
+      },
+      {
+        "type" : "A332",
+        "model" : "Airbus A330-200"
+      },
+      {
+        "type" : "A333",
+        "model" : "Airbus A330-300"
+      }
+    ],
+    "iata" : "TS",
+    "name" : "Air Transat"
+  },
+  {
+    "callsign" : "ALASKA",
+    "country" : "United States",
+    "website" : "alaskaair.com",
+    "icao" : "ASA",
+    "types" : [
+      {
+        "type" : "A320",
+        "model" : "Airbus A320-200"
+      },
+      {
+        "type" : "A21N",
+        "model" : "Airbus A321neo"
+      },
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B39M",
+        "model" : "Boeing 737 MAX 9"
+      }
+    ],
+    "iata" : "AS",
+    "name" : "Alaska Airlines"
+  },
+  {
+    "callsign" : "ALLEGIANT",
+    "country" : "United States",
+    "website" : "allegiantair.com",
+    "icao" : "AAY",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "G4",
+    "name" : "Allegiant Air"
+  },
+  {
+    "callsign" : "AMERICAN",
+    "country" : "United States",
+    "website" : "aa.com",
+    "icao" : "AAL",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "AA",
+    "name" : "American Airlines"
+  },
+  {
+    "callsign" : "AVELO",
+    "country" : "United States",
+    "website" : "aveloair.com",
+    "icao" : "VXP",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "XP",
+    "name" : "Avelo Air"
+  },
+  {
+    "callsign" : "MOXY",
+    "country" : "United States",
+    "website" : "flybreeze.com",
+    "icao" : "MXY",
+    "types" : [
+      {
+        "type" : "E190",
+        "model" : "Embraer E190"
+      },
+      {
+        "type" : "E195",
+        "model" : "Embraer E195"
+      },
+      {
+        "type" : "BCS3",
+        "model" : "Airbus A220-300"
+      }
+    ],
+    "iata" : "MX",
+    "name" : "Breeze Airways"
+  },
+  {
+    "callsign" : "DELTA",
+    "country" : "United States",
+    "website" : "delta.com",
+    "icao" : "DAL",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "DL",
+    "name" : "Delta Air Lines"
+  },
+  {
+    "callsign" : "FLAIR",
+    "country" : "Canada",
+    "website" : "flyflair.com",
+    "icao" : "FLE",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "F8",
+    "name" : "Flair Airlines"
+  },
+  {
+    "callsign" : "FRONTIER FLIGHT",
+    "country" : "United States",
+    "website" : "flyfrontier.com",
+    "icao" : "FFT",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "F9",
+    "name" : "Frontier Airlines"
+  },
+  {
+    "callsign" : "HAWAIIAN",
+    "country" : "United States",
+    "website" : "hawaiianairlines.com",
+    "icao" : "HAL",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "HA",
+    "name" : "Hawaiian Airlines"
+  },
+  {
+    "callsign" : "BIGSTRIPE",
+    "country" : "United States",
+    "website" : "jsx.com",
+    "icao" : "JSX",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "XE",
+    "name" : "JSX"
+  },
+  {
+    "callsign" : "JETBLUE",
+    "country" : "United States",
+    "website" : "jetblue.com",
+    "icao" : "JBU",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "B6",
+    "name" : "JetBlue Airways"
+  },
+  {
+    "callsign" : "DAUNTLESS",
+    "country" : "Canada",
+    "website" : "flylynx.com",
+    "icao" : "DAT",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "Y9",
+    "name" : "Lynx Air"
+  },
+  {
+    "callsign" : "PORTER AIR",
+    "country" : "Canada",
+    "website" : "flyporter.com",
+    "icao" : "POE",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "PD",
+    "name" : "Porter Airlines"
+  },
+  {
+    "callsign" : "SOUTHWEST",
+    "country" : "United States",
+    "website" : "southwest.com",
+    "icao" : "SWA",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      },
+      {
+        "type" : "B37M",
+        "model" : "Boeing 737 MAX 7"
+      },
+      {
+        "type" : "B38M",
+        "model" : "Boeing 737 MAX 8"
+      }
+    ],
+    "iata" : "WN",
+    "name" : "Southwest Airlines"
+  },
+  {
+    "callsign" : "SPIRIT WINGS",
+    "country" : "United States",
+    "website" : "spirit.com",
+    "icao" : "NKS",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "NK",
+    "name" : "Spirit Airlines"
+  },
+  {
+    "callsign" : "SUN COUNTRY",
+    "country" : "United States",
+    "website" : "suncountry.com",
+    "icao" : "SCX",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "SY",
+    "name" : "Sun Country Airlines"
+  },
+  {
+    "callsign" : "SUNWING",
+    "country" : "Canada",
+    "website" : "flysunwing.com",
+    "icao" : "SWG",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "WG",
+    "name" : "Sunwing Airlines"
+  },
+  {
+    "callsign" : "SWOOP",
+    "country" : "Canada",
+    "website" : "flyswoop.com",
+    "icao" : "WSW",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "WO",
+    "name" : "Swoop"
+  },
+  {
+    "callsign" : "UNITED",
+    "country" : "United States",
+    "website" : "united.com",
+    "icao" : "UAL",
+    "types" : [
+      {
+        "type" : "B38M",
+        "model" : "Boeing 737 MAX 8"
+      }
+    ],
+    "iata" : "UA",
+    "name" : "United Airlines"
+  },
+  {
+    "callsign" : "WESTJET",
+    "country" : "Canada",
+    "website" : "westjet.com",
+    "icao" : "WJA",
+    "types" : [
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      }
+    ],
+    "iata" : "WS",
+    "name" : "WestJet"
+  }
+]
