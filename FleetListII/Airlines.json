@@ -3,6 +3,7 @@
     "callsign" : "AIR CANADA",
     "country" : "Canada",
     "website" : "aircanada.com",
+    "summary" : "",
     "icao" : "ACA",
     "types" : [
       {
@@ -21,6 +22,7 @@
     "callsign" : "ROUGE",
     "country" : "Canada",
     "website" : "aircanadarouge.com",
+    "summary" : "",
     "icao" : "ROU",
     "types" : [
       {
@@ -39,6 +41,7 @@
     "callsign" : "AIR TRANSAT",
     "country" : "Canada",
     "website" : "airtransat.com",
+    "summary" : "",
     "icao" : "TSC",
     "types" : [
       {
@@ -65,6 +68,7 @@
     "callsign" : "ALASKA",
     "country" : "United States",
     "website" : "alaskaair.com",
+    "summary" : "",
     "icao" : "ASA",
     "types" : [
       {
@@ -91,6 +95,7 @@
     "callsign" : "ALLEGIANT",
     "country" : "United States",
     "website" : "allegiantair.com",
+    "summary" : "",
     "icao" : "AAY",
     "types" : [
       {
@@ -108,6 +113,7 @@
   {
     "callsign" : "AMERICAN",
     "country" : "United States",
+    "summary" : "",
     "website" : "aa.com",
     "icao" : "AAL",
     "types" : [
@@ -127,6 +133,7 @@
     "callsign" : "AVELO",
     "country" : "United States",
     "website" : "aveloair.com",
+    "summary" : "",
     "icao" : "VXP",
     "types" : [
       {
@@ -145,6 +152,7 @@
     "callsign" : "MOXY",
     "country" : "United States",
     "website" : "flybreeze.com",
+    "summary" : "",
     "icao" : "MXY",
     "types" : [
       {
@@ -167,6 +175,7 @@
     "callsign" : "DELTA",
     "country" : "United States",
     "website" : "delta.com",
+    "summary" : "",
     "icao" : "DAL",
     "types" : [
       {
@@ -185,6 +194,7 @@
     "callsign" : "FLAIR",
     "country" : "Canada",
     "website" : "flyflair.com",
+    "summary" : "",
     "icao" : "FLE",
     "types" : [
       {
@@ -203,6 +213,7 @@
     "callsign" : "FRONTIER FLIGHT",
     "country" : "United States",
     "website" : "flyfrontier.com",
+    "summary" : "",
     "icao" : "FFT",
     "types" : [
       {
@@ -221,6 +232,7 @@
     "callsign" : "HAWAIIAN",
     "country" : "United States",
     "website" : "hawaiianairlines.com",
+    "summary" : "",
     "icao" : "HAL",
     "types" : [
       {
@@ -238,6 +250,7 @@
   {
     "callsign" : "BIGSTRIPE",
     "country" : "United States",
+    "summary" : "",
     "website" : "jsx.com",
     "icao" : "JSX",
     "types" : [
@@ -257,6 +270,7 @@
     "callsign" : "JETBLUE",
     "country" : "United States",
     "website" : "jetblue.com",
+    "summary" : "",
     "icao" : "JBU",
     "types" : [
       {
@@ -275,6 +289,7 @@
     "callsign" : "DAUNTLESS",
     "country" : "Canada",
     "website" : "flylynx.com",
+    "summary" : "",
     "icao" : "DAT",
     "types" : [
       {
@@ -293,6 +308,7 @@
     "callsign" : "PORTER AIR",
     "country" : "Canada",
     "website" : "flyporter.com",
+    "summary" : "",
     "icao" : "POE",
     "types" : [
       {
@@ -311,6 +327,7 @@
     "callsign" : "SOUTHWEST",
     "country" : "United States",
     "website" : "southwest.com",
+    "summary" : "",
     "icao" : "SWA",
     "types" : [
       {
@@ -337,6 +354,7 @@
     "callsign" : "SPIRIT WINGS",
     "country" : "United States",
     "website" : "spirit.com",
+    "summary" : "",
     "icao" : "NKS",
     "types" : [
       {
@@ -355,6 +373,7 @@
     "callsign" : "SUN COUNTRY",
     "country" : "United States",
     "website" : "suncountry.com",
+    "summary" : "",
     "icao" : "SCX",
     "types" : [
       {
@@ -373,6 +392,7 @@
     "callsign" : "SUNWING",
     "country" : "Canada",
     "website" : "flysunwing.com",
+    "summary" : "",
     "icao" : "SWG",
     "types" : [
       {
@@ -391,6 +411,7 @@
     "callsign" : "SWOOP",
     "country" : "Canada",
     "website" : "flyswoop.com",
+    "summary" : "",
     "icao" : "WSW",
     "types" : [
       {
@@ -409,6 +430,7 @@
     "callsign" : "UNITED",
     "country" : "United States",
     "website" : "united.com",
+    "summary" : "",
     "icao" : "UAL",
     "types" : [
       {
