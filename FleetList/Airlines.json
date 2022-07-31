@@ -198,12 +198,12 @@
     "fleetsize" : 20,
     "types" : [
       {
-        "type" : "B737",
-        "model" : "Boeing 737-700"
-      },
-      {
         "type" : "B738",
         "model" : "Boeing 737-800"
+      },
+      {
+        "type" : "B38M",
+        "model" : "Boeing 737 MAX 8"
       }
     ],
     "iata" : "F8",
