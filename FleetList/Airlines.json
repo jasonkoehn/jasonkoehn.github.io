@@ -434,8 +434,68 @@
     "fleetsize" : 20,
     "types" : [
       {
+        "type" : "A319",
+        "model" : "Airbus A319"
+      },
+      {
+        "type" : "A320",
+        "model" : "Airbus A320"
+      },
+      {
         "type" : "B38M",
         "model" : "Boeing 737 MAX 8"
+      },
+      {
+        "type" : "B39M",
+        "model" : "Boeing 737 MAX 9"
+      },
+      {
+        "type" : "B737",
+        "model" : "Boeing 737-700"
+      },
+      {
+        "type" : "B738",
+        "model" : "Boeing 737-800"
+      },
+      {
+        "type" : "B739",
+        "model" : "Boeing 737-900"
+      },
+      {
+        "type" : "B752",
+        "model" : "Boeing 757-200"
+      },
+      {
+        "type" : "B753",
+        "model" : "Boeing 757-300"
+      },
+      {
+        "type" : "B763",
+        "model" : "Boeing 767-300"
+      },
+      {
+        "type" : "B764",
+        "model" : "Boeing 767-400"
+      },
+      {
+        "type" : "B772",
+        "model" : "Boeing 777-200"
+      },
+      {
+        "type" : "B77W",
+        "model" : "Boeing 777-300ER"
+      },
+      {
+        "type" : "B788",
+        "model" : "Boeing 787-8 Dreamliner"
+      },
+      {
+        "type" : "B789",
+        "model" : "Boeing 787-9 Dreamliner"
+      },
+      {
+        "type" : "B78X",
+        "model" : "Boeing 787-10 Dreamliner"
       }
     ],
     "iata" : "UA",
