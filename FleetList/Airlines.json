@@ -4,6 +4,7 @@
     "country" : "Canada",
     "website" : "aircanada.com",
     "icao" : "ACA",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -22,6 +23,7 @@
     "country" : "Canada",
     "website" : "aircanadarouge.com",
     "icao" : "ROU",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -40,6 +42,7 @@
     "country" : "Canada",
     "website" : "airtransat.com",
     "icao" : "TSC",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "A321",
@@ -66,6 +69,7 @@
     "country" : "United States",
     "website" : "alaskaair.com",
     "icao" : "ASA",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "A320",
@@ -92,6 +96,7 @@
     "country" : "United States",
     "website" : "allegiantair.com",
     "icao" : "AAY",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -110,6 +115,7 @@
     "country" : "United States",
     "website" : "aa.com",
     "icao" : "AAL",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -128,6 +134,7 @@
     "country" : "United States",
     "website" : "aveloair.com",
     "icao" : "VXP",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -146,6 +153,7 @@
     "country" : "United States",
     "website" : "flybreeze.com",
     "icao" : "MXY",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "E190",
@@ -168,6 +176,7 @@
     "country" : "United States",
     "website" : "delta.com",
     "icao" : "DAL",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -186,6 +195,7 @@
     "country" : "Canada",
     "website" : "flyflair.com",
     "icao" : "FLE",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -204,6 +214,7 @@
     "country" : "United States",
     "website" : "flyfrontier.com",
     "icao" : "FFT",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -222,6 +233,7 @@
     "country" : "United States",
     "website" : "hawaiianairlines.com",
     "icao" : "HAL",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -240,6 +252,7 @@
     "country" : "United States",
     "website" : "jsx.com",
     "icao" : "JSX",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -258,6 +271,7 @@
     "country" : "United States",
     "website" : "jetblue.com",
     "icao" : "JBU",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -276,6 +290,7 @@
     "country" : "Canada",
     "website" : "flylynx.com",
     "icao" : "DAT",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -294,6 +309,7 @@
     "country" : "Canada",
     "website" : "flyporter.com",
     "icao" : "POE",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -312,6 +328,7 @@
     "country" : "United States",
     "website" : "southwest.com",
     "icao" : "SWA",
+    "fleetsize" : 736,
     "types" : [
       {
         "type" : "B737",
@@ -338,6 +355,7 @@
     "country" : "United States",
     "website" : "spirit.com",
     "icao" : "NKS",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -356,6 +374,7 @@
     "country" : "United States",
     "website" : "suncountry.com",
     "icao" : "SCX",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -374,6 +393,7 @@
     "country" : "Canada",
     "website" : "flysunwing.com",
     "icao" : "SWG",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -392,6 +412,7 @@
     "country" : "Canada",
     "website" : "flyswoop.com",
     "icao" : "WSW",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
@@ -410,6 +431,7 @@
     "country" : "United States",
     "website" : "united.com",
     "icao" : "UAL",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B38M",
@@ -424,6 +446,7 @@
     "country" : "Canada",
     "website" : "westjet.com",
     "icao" : "WJA",
+    "fleetsize" : 20,
     "types" : [
       {
         "type" : "B737",
