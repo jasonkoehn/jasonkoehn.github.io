@@ -195,7 +195,7 @@
     "country" : "Canada",
     "website" : "flyflair.com",
     "icao" : "FLE",
-    "fleetsize" : 20,
+    "fleetsize" : 18,
     "types" : [
       {
         "type" : "B738",
