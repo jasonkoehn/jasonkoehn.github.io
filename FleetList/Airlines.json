@@ -153,7 +153,7 @@
     "country" : "United States",
     "website" : "flybreeze.com",
     "icao" : "MXY",
-    "fleetsize" : 20,
+    "fleetsize" : 21,
     "types" : [
       {
         "type" : "E190",
