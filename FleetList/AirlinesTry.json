@@ -1,0 +1,4 @@
+[
+    {"name":"Breeze Airways","country":"United States","website":"flybreeze.com","iata":"MX","icao":"MXY","callsign":"MOXY","fleetsize":21,"types":"E190,E195,BCS3"},
+    {"name":"Flair Airlines","country":"Canada","website":"flyflair.com","iata":"F8","icao":"FLE","callsign":"FLAIR","fleetsize":18,"types":"B738,B38M"},
+    {"name":"Southwest Airlines","country":"United States","website":"southwest.com","iata":"WN","icao":"SWA","callsign":"SOUTHWEST","fleetsize":737,"types":"B737,B738,B38M"}]
