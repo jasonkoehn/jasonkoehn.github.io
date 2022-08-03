@@ -1,45 +1,4 @@
 {
-    "letters":[
-        {
-            "letter":"A"
-        },
-        {
-            "letter":"B"
-        },
-        {
-            "letter":"D"
-        },
-        {
-            "letter":"F"
-        },
-        {
-            "letter":"H"
-        },
-        {
-            "letter":"J"
-        },
-        {
-            "letter":"L"
-        },
-        {
-            "letter":"P"
-        },
-        {
-            "letter":"S"
-        },
-        {
-            "letter":"U"
-        },
-        {
-            "letter":"W"
-        }
-    ],
-    "countries":[
-        {
-            "name":"United States"
-        },
-        {
-            "name":"Canada"
-        }
-    ]
+    "letters":[{"letter":"B"},{"letter":"F"},{"letter":"S"}],
+    "countries":[{"name":"Canada"},{"name":"United States"}]
 }
