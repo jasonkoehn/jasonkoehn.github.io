@@ -1,0 +1,437 @@
+[
+  {
+    "Code": "20",
+    "Customer": "Boeing, used for prototypes and general designations of 707 and 720 aircraft",
+    "Aircraft": "707, 720"
+  },
+  {
+    "Code": "21",
+    "Customer": "Pan Am / Pan American-Grace Airways",
+    "Aircraft": "707, 727, 747"
+  },
+  {
+    "Code": "22",
+    "Customer": "United Airlines",
+    "Aircraft": "720, 727, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "23",
+    "Customer": "American Airlines",
+    "Aircraft": "707, 720, 727, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "24",
+    "Customer": "Continental Airlines → United Airlines",
+    "Aircraft": "707, 720, 727, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "25",
+    "Customer": "Eastern Air Lines",
+    "Aircraft": "720, 727, 747 (not delivered), 757"
+  },
+  {
+    "Code": "26",
+    "Customer": "United States Air Force - Military Air Transport Service",
+    "Aircraft": "C-137"
+  },
+  {
+    "Code": "27",
+    "Customer": "Braniff International Airways",
+    "Aircraft": "707, 720, 727, 747"
+  },
+  {
+    "Code": "28",
+    "Customer": "Air France",
+    "Aircraft": "707, 727, 737, 747, 767, 777"
+  },
+  {
+    "Code": "29",
+    "Customer": "Sabena → SN Brussels Airlines → Brussels Airlines",
+    "Aircraft": "707, 727, 737, 747"
+  },
+  {
+    "Code": "30",
+    "Customer": "Lufthansa",
+    "Aircraft": "707, 720, 727, 737, 747, 767"
+  },
+  {
+    "Code": "30",
+    "Customer": "Condor Flugdienst",
+    "Aircraft": "727, 737, 747, 757, 767"
+  },
+  {
+    "Code": "31",
+    "Customer": "Trans World Airlines",
+    "Aircraft": "707, 717, 727, 747, 757, 767"
+  },
+  {
+    "Code": "32",
+    "Customer": "Delta Air Lines",
+    "Aircraft": "727, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "33",
+    "Customer": "Air Canada",
+    "Aircraft": "727, 737, 747, 767, 777"
+  },
+  {
+    "Code": "34",
+    "Customer": "Transair Sweden",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "35",
+    "Customer": "National Airlines",
+    "Aircraft": "727, 747"
+  },
+  {
+    "Code": "36",
+    "Customer": "British Overseas Airways Corporation → British Airways",
+    "Aircraft": "707, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "37",
+    "Customer": "Air India",
+    "Aircraft": "707, 737, 747, 777"
+  },
+  {
+    "Code": "38",
+    "Customer": "Qantas",
+    "Aircraft": "707, 737, 747, 767"
+  },
+  {
+    "Code": "39",
+    "Customer": "Cubana de Aviación",
+    "Aircraft": "707 (not delivered)"
+  },
+  {
+    "Code": "40",
+    "Customer": "Pakistan International Airlines",
+    "Aircraft": "707, 720, 737, 747, 777"
+  },
+  {
+    "Code": "41",
+    "Customer": "Varig",
+    "Aircraft": "707, 727, 737, 747, 767"
+  },
+  {
+    "Code": "42",
+    "Customer": "Nordair",
+    "Aircraft": "727 (not built), 737"
+  },
+  {
+    "Code": "43",
+    "Customer": "Alitalia",
+    "Aircraft": "727, 747, 767, 777"
+  },
+  {
+    "Code": "44",
+    "Customer": "South African Airways",
+    "Aircraft": "707, 727, 737, 747"
+  },
+  {
+    "Code": "45",
+    "Customer": "Seaboard World Airlines",
+    "Aircraft": "707, 747"
+  },
+  {
+    "Code": "46",
+    "Customer": "Japan Airlines",
+    "Aircraft": "727, 737, 747, 767, 777"
+  },
+  {
+    "Code": "47",
+    "Customer": "Western Airlines",
+    "Aircraft": "707, 720, 727, 737"
+  },
+  {
+    "Code": "48",
+    "Customer": "Aer Lingus",
+    "Aircraft": "707, 720, 737, 747"
+  },
+  {
+    "Code": "49",
+    "Customer": "Flying Tiger Line",
+    "Aircraft": "707, 747"
+  },
+  {
+    "Code": "50",
+    "Customer": "Trek Airways",
+    "Aircraft": "707 (sold before delivery)"
+  },
+  {
+    "Code": "51",
+    "Customer": "Northwest Orient Airlines → Northwest Airlines",
+    "Aircraft": "707, 720, 727, 747, 757"
+  },
+  {
+    "Code": "52",
+    "Customer": "Aeroméxico",
+    "Aircraft": "737, 767"
+  },
+  {
+    "Code": "53",
+    "Customer": "United States Air Force",
+    "Aircraft": "707 (C-137), 737 (T-43)"
+  },
+  {
+    "Code": "54",
+    "Customer": "Mohawk Airlines",
+    "Aircraft": "727 (not delivered)"
+  },
+  {
+    "Code": "55",
+    "Customer": "KLM",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "55",
+    "Customer": "Executive Jet Management",
+    "Aircraft": "707 (not delivered), 727"
+  },
+  {
+    "Code": "56",
+    "Customer": "Iberia",
+    "Aircraft": "727, 747, 757"
+  },
+  {
+    "Code": "57",
+    "Customer": "Swissair",
+    "Aircraft": "747"
+  },
+  {
+    "Code": "58",
+    "Customer": "El Al",
+    "Aircraft": "707, 720, 737, 747, 757, 767, 777"
+  },
+  {
+    "Code": "59",
+    "Customer": "Avianca",
+    "Aircraft": "707, 720, 727, 737, 747, 767"
+  },
+  {
+    "Code": "60",
+    "Customer": "Ethiopian Airlines",
+    "Aircraft": "707, 720, 727, 737, 757, 767, 777"
+  },
+  {
+    "Code": "61",
+    "Customer": "Federal Aviation Administration",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "62",
+    "Customer": "Pacific Northern Airlines",
+    "Aircraft": "720, 727 (not delivered)"
+  },
+  {
+    "Code": "63",
+    "Customer": "WAAC",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "63",
+    "Customer": "Ghana Airways",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "63",
+    "Customer": "Faucett",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "64",
+    "Customer": "Mexicana",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "65",
+    "Customer": "Cunard Eagle and British Eagle",
+    "Aircraft": "707"
+  },
+  {
+    "Code": "66",
+    "Customer": "United Arab Airlines → EgyptAir",
+    "Aircraft": "707, 737, 747, 767, 777"
+  },
+  {
+    "Code": "67",
+    "Customer": "Cathay Pacific",
+    "Aircraft": "747, 777"
+  },
+  {
+    "Code": "68",
+    "Customer": "Saudia",
+    "Aircraft": "707, 720, 737, 747, 777"
+  },
+  {
+    "Code": "69",
+    "Customer": "Kuwait Airways",
+    "Aircraft": "707, 727, 737, 747, 767, 777"
+  },
+  {
+    "Code": "70",
+    "Customer": "Iraqi Airways",
+    "Aircraft": "707, 727, 737, 747"
+  },
+  {
+    "Code": "71",
+    "Customer": "Trans International Airlines → TransAmerica",
+    "Aircraft": "727, 747"
+  },
+  {
+    "Code": "72",
+    "Customer": "Airlift International",
+    "Aircraft": "707, 727"
+  },
+  {
+    "Code": "73",
+    "Customer": "World Airways",
+    "Aircraft": "707, 727, 747"
+  },
+  {
+    "Code": "74",
+    "Customer": "Iraqi Airways",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "74",
+    "Customer": "Libyan Arab",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "75",
+    "Customer": "Pacific Western → Canadian Airlines",
+    "Aircraft": "737, 747, 767"
+  },
+  {
+    "Code": "76",
+    "Customer": "Trans Australia Airlines → Australian Airlines",
+    "Aircraft": "727, 737"
+  },
+  {
+    "Code": "77",
+    "Customer": "Ansett Australia",
+    "Aircraft": "727, 737, 767"
+  },
+  {
+    "Code": "78",
+    "Customer": "British West Indian Airways",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "79",
+    "Customer": "Saturn Airways",
+    "Aircraft": "707 (not delivered)"
+  },
+  {
+    "Code": "80",
+    "Customer": "Bankers Trust",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "81",
+    "Customer": "Línea Aeropostal Venezolana",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "81",
+    "Customer": "All Nippon Airways",
+    "Aircraft": "727, 737, 747, 767, 777"
+  },
+  {
+    "Code": "82",
+    "Customer": "TAP Air Portugal",
+    "Aircraft": "707, 727, 737, 747"
+  },
+  {
+    "Code": "83",
+    "Customer": "Scandinavian Airlines",
+    "Aircraft": "737, 747, 767"
+  },
+  {
+    "Code": "84",
+    "Customer": "Olympic Airways → Olympic Airlines → Olympic Air",
+    "Aircraft": "707, 720, 727, 737, 747, 767"
+  },
+  {
+    "Code": "85",
+    "Customer": "American Flyers",
+    "Aircraft": "707, 727"
+  },
+  {
+    "Code": "86",
+    "Customer": "Iran Air",
+    "Aircraft": "707, 727, 737, 747, 747SP"
+  },
+  {
+    "Code": "87",
+    "Customer": "Aerolíneas Argentinas",
+    "Aircraft": "707, 727, 737, 747"
+  },
+  {
+    "Code": "89",
+    "Customer": "Japan Domestic Airlines → Toa Domestic Airlines → Japan Air System",
+    "Aircraft": "727, 777"
+  },
+  {
+    "Code": "90",
+    "Customer": "Alaska Airlines",
+    "Aircraft": "727, 737"
+  },
+  {
+    "Code": "91",
+    "Customer": "Frontier Airlines",
+    "Aircraft": "727, 737"
+  },
+  {
+    "Code": "92",
+    "Customer": "Southern Air Transport",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "93",
+    "Customer": "Pacific Air Lines",
+    "Aircraft": "727, 737 (not delivered)"
+  },
+  {
+    "Code": "94",
+    "Customer": "Syrian Arab Airlines",
+    "Aircraft": "727, 747SP"
+  },
+  {
+    "Code": "95",
+    "Customer": "Northeast Airlines",
+    "Aircraft": "727"
+  },
+  {
+    "Code": "96",
+    "Customer": "Quebecair → Nordair",
+    "Aircraft": "707 (not delivered), 727, 737"
+  },
+  {
+    "Code": "97",
+    "Customer": "Aloha Airlines",
+    "Aircraft": "737"
+  },
+  {
+    "Code": "98",
+    "Customer": "Capital Airlines",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "98",
+    "Customer": "Air Zaïre",
+    "Aircraft": "707, 737"
+  },
+  {
+    "Code": "99",
+    "Customer": "Avensa",
+    "Aircraft": "Not used"
+  },
+  {
+    "Code": "99",
+    "Customer": "Caledonian Airways → British Caledonian",
+    "Aircraft": "707"
+  }
+]
