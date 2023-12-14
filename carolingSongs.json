@@ -1,0 +1,314 @@
+[
+    {
+        "verses" : [
+            {
+                "verse" : "All Hail the Power of Jesus name! Let angels prostrate fall, Let angels prostrate fall; Bring forth the royal diadem,",
+                "number" : 1
+            },
+            {
+                "verse" : "Ye chosen seed of Israel’s race, Ye ransomed from the fall, Ye ransomed from the fall; Hail Him who saves you by His grace,",
+                "number" : 2
+            },
+            {
+                "verse" : "Let every kindred, every tribe, On this terrestrial ball, On this terrestrial ball, To Him all majesty ascribe,",
+                "number" : 3
+            },
+            {
+                "number" : 4,
+                "verse" : "O that with yonder sacred throng We at His feet may fall, We at His feet may fall! We’ll join the everlasting song,"
+            }
+        ],
+        "chorus" : "And crown Him, crown Him, crown Him, crown Him, crown Him, crown Him, crown Him, And crown Him Lord of all.",
+        "title" : "All Hail the Power of Jesus’ Name",
+        "startingNote" : "Sol",
+        "pitch" : "B-flat"
+    },
+    {
+        "pitch" : "D",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "Angels! From the realms of glory, Wing your flight o’re all the earth; Ye who sang creation’s story, Now proclaim Messiah’s birth: Come and worship, Worship Christ, the newborn King. Come and worship, Worship Christ the newborn King."
+            },
+            {
+                "number" : 2,
+                "verse" : "Shepherd!  In the field abiding, Watching o’er your flocks by night, God with man is now residing; Yonder shines the heavenly light: Come and worship, Worship Christ, the newborn King.  Come and worship, Worship Christ, the newborn King."
+            },
+            {
+                "number" : 3,
+                "verse" : "Saints!  Before the altar bending, Watching long in hope and fear, Suddenly the Lord, descending, In His temple shall appear: Come and worship, Worship Christ, the newborn King.  Come and worship, Worship Christ the newborn King."
+            },
+            {
+                "verse" : "Sinners! Wrung with true repentance, Doomed for guilt to endless pains: Justice now revokes the sentence, Mercy calls you, break your chains: Come and worship, Worship Christ, the newborn King.  Come and worship, Worship Christ the newborn King.",
+                "number" : 4
+            }
+        ],
+        "chorus" : "",
+        "title" : "Angels From the Realms of Glory",
+        "startingNote" : "Sol"
+    },
+    {
+        "title" : "Many Stars",
+        "verses" : [
+            {
+                "verse" : "Many stars were shining brightly on one peaceful Holy night. Wise min gazed and watched their movements from below, Till they saw a strange one moving, it was shining fair and bright. They had never seen one like it there before.",
+                "number" : 1
+            },
+            {
+                "number" : 2,
+                "verse" : "Beautiful star that crowned the Heavens led the wise men on and on, Soon it stopped and near a Holy little place. There they worshipped God in Heaven, knew the Holy One was born. They had never seen one like it there before."
+            },
+            {
+                "verse" : "From that rugged wooden manger Jesus grew a promised child, Told His story to the ones He Knew were lost. Then He proved how much He loved us, paid the debt for you and me, When He died in shame upon that cruel tree.",
+                "number" : 3
+            },
+            {
+                "verse" : "",
+                "number" : 4
+            }
+        ],
+        "chorus" : "Sweetly sleeping in a manger in a loving mother’s care, Jesus had no downy pillow for His head. Many a babe is sweetly sleeping wrapped in luxury everywhere, While little Jesus had a manger for His bed.",
+        "pitch" : "E-flat",
+        "startingNote" : "Sol"
+    },
+    {
+        "chorus" : "O come let us adore Him, O come let us adore Him, O come let us adore Him, Christ, the Lord.",
+        "pitch" : "A",
+        "startingNote" : "Do",
+        "title" : "O Come, All Ye Faithful",
+        "verses" : [
+            {
+                "verse" : "O come, all ye faithful, Joyful and triumphant, O come ye, O come ye to Bethlehem; Come and behold Him born the King of angels;",
+                "number" : 1
+            },
+            {
+                "number" : 2,
+                "verse" : "True God of true God, Light of light eternal, Our lowly nature He hath not abhorred; Son of the Father, Begotten, not created;"
+            },
+            {
+                "verse" : "Sing, choirs of angels, Sing in exultation, O sing all ye citizens of heav’n above: Glory to God, all Glory in the Highest;",
+                "number" : 3
+            },
+            {
+                "number" : 4,
+                "verse" : "Yea, Lord we greet Thee, Born this happy morning, - Jesus, to Thee be all glory giv’n; Word of the Father, Now in flesh appearing;"
+            }
+        ]
+    },
+    {
+        "title" : "Oh Beautiful Star of Bethlehem",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "Oh beautiful Star of Bethlehem, shining afar thro’ shadows dim, Giving a light for those who long have gone, (have gone) And guiding the wise men on their way unto the place where Jesus lay, Beautiful Star of Bethlehem, Shine on. (shine on.)"
+            },
+            {
+                "number" : 2,
+                "verse" : "Oh, beautiful Star, the hope of light guiding the pilgrim thro’ the night, Over the mountain till the break of dawn, (the dawn,) And into the light of perfect day it will give out a lovely ray, Beautiful Star of Bethlehem, Shine on. (shine on.)"
+            },
+            {
+                "number" : 3,
+                "verse" : "Oh, beautiful Star, the hope of rest, for the redeemed the good and blest, Yonder in Glory when the crown is won, (is won) For Jesus is now that Star divine, brighter and brighter He will shine. Beautiful Star of Bethlehem shine on. (shine on.)"
+            },
+            {
+                "number" : 4,
+                "verse" : ""
+            }
+        ],
+        "startingNote" : "Sol",
+        "chorus" : "Oh beautiful Star (Beautiful, beautiful Star,) of Bethlehem, (Star of Bethlehem,) Shine upon us until the glory dawn; (glory dawn;) Oh, give us thy light to light the day into the land of perfect day, Beautiful Star of Bethlehem shine on. (shine on.)",
+        "pitch" : "G"
+    },
+    {
+        "title" : "Glory to the Highest",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "Angels we have heard on high, Sweetly singing o’er the plain, And the mountains in reply, Echoing their joyous strain."
+            },
+            {
+                "verse" : "Shepherds, why this jubilee? Why with haste the stable near? What great brightness did you see? What glad tidings did you hear?",
+                "number" : 2
+            },
+            {
+                "verse" : "Come to Bethlehem and see Him whose birth the angels sing, Come adore on bended knee Christ, the Lord, the newborn King.",
+                "number" : 3
+            },
+            {
+                "verse" : "See Him in the Manger laid, Whom the angel hosts adore; Let us hasten to the babe, Learn His Love and taste His joy.",
+                "number" : 4
+            }
+        ],
+        "startingNote" : "Mi",
+        "chorus" : "Glory, glory to the Highest, Glory, glory to the Highest, Glory, glory to our God most High, Peace on earth, good will to men.",
+        "pitch" : "F"
+    },
+    {
+        "startingNote" : "Sol",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "Hark! Are they not angels that gladly are bringing to mankind the wonderful message of love? Soul, list to the anthems of multitudes singing; The songs of rejoicing they bring from above! That peace be on earth and good will be to man! Glory to God! Glory to God in heav’n!"
+            },
+            {
+                "verse" : "Lo singers of heaven in infinite number, Proclaiming that Jesus, our Savior, is born; Arouse, all ye people, awake from your slumber! And saints then may comfort the sinners that mourn. For peace be on earth, and good will be to man! Glory to God! Glory to God in heav’n!",
+                "number" : 2
+            },
+            {
+                "verse" : "Come! Sing, all ye nations, sing praise to our Savior! No greater love ever was given to man. Give hearts, hands, and voices, in praise for His favor! Proclaiming our Father’s great blessing again. Now sweetly and clearly the message is giv’n: Glory to God! Glory to God in heav’n!",
+                "number" : 3
+            },
+            {
+                "verse" : "",
+                "number" : 4
+            }
+        ],
+        "title" : "Hark Are They Not Angels?",
+        "pitch" : "A",
+        "chorus" : ""
+    },
+    {
+        "verses" : [
+            {
+                "verse" : "Joy to the world! The Lord is come; Let earth receive her King; Let every heart prepare Him room, And heav’n and nature sing, And heav’n and nature sing, And heav’n, and heav’n and nature sing.",
+                "number" : 1
+            },
+            {
+                "number" : 2,
+                "verse" : "Joy to the earth! The Savior reigns; Let men their songs employ; While fields and floods, rocks, hills, and plains, Repeat the sounding joy, Repeat the sounding joy, Repeat, repeat the sounding joy."
+            },
+            {
+                "number" : 3,
+                "verse" : "No more let sins and sorrows grow, Nor thorns infest the ground; He comes to make His blessings flow far as the curse is found, Far as the curse is found, Far as, far as the curse is found."
+            },
+            {
+                "number" : 4,
+                "verse" : "He rules the world with truth and grace, And makes the nations prove the glories of His righteousness,And wonders of His love, And wonders of His love, And wonders, wonders of His love."
+            }
+        ],
+        "title" : "Joy to the World",
+        "startingNote" : "Sol",
+        "chorus" : "",
+        "pitch" : "D"
+    },
+    {
+        "title" : "Silent Night",
+        "chorus" : "",
+        "pitch" : "C",
+        "startingNote" : "Sol",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "Silent night! Holy night! All is calm, all is bright, Round yon virgin mother and Child; Holy Infant so tender and mild, Sleep in heavenly peace, Sleep in heavenly peace."
+            },
+            {
+                "number" : 2,
+                "verse" : "Silent night! Holy night! Shepherds quake at the site! Glories stream from heaven afar, Heavenly host sing alleluia. Christ, the Savior is born! Christ, the Savior is born."
+            },
+            {
+                "number" : 3,
+                "verse" : "Silent night! Holy night! Son of God, loves pure light. Radiant beams from Thy holy face, with the dawn of redeeming grace, Jesus, Lord, at Thy birth, Jesus, Lord, at Thy birth."
+            },
+            {
+                "number" : 4,
+                "verse" : ""
+            }
+        ]
+    },
+    {
+        "startingNote" : "Sol",
+        "chorus" : "",
+        "title" : "The Joyful, Holy Night",
+        "verses" : [
+            {
+                "verse" : "The night was so silent, the earth was so still; As shepherds were watching their flocks on the hill. The stars o’er Judea shone bright in the sky, When, lo! A lone angel from heaven on high came telling so gladly of our Savior’s birth, When infinite tenderness touched these sad earth, On this joyful, holy night.",
+                "number" : 1
+            },
+            {
+                "verse" : "So sudden a heavenly host did appear, All singing so sweetly, so rich and so clear. The glory of God everywhere shone around. And “peace and goodwill” on the earth did resound, When God’s richest gift to all mankind was giv’n, The best and the dearest that He had in heaven, On this joyful, holy night.",
+                "number" : 2
+            },
+            {
+                "verse" : "The wise men came seeking the Infant from far, They sought Him and found Him, the followed His star, The star that shone in where the Christ child lay, His crib was a manger, His pillow the hay; He slept in a manger for Bethlehem’s inn, When Jesus was born, had no room for Him then, On this joyful, holy night.",
+                "number" : 3
+            },
+            {
+                "verse" : "Oh, love Him, adore Him, our Savior and King, And joyful, so joyfully glad voices sing, Give praises to heaven’s great gift of this day, Make room in your hearts and ne’er answer Him “nay,” Oh, joyfully claim Him, He came as our own, He loves us, He calls us, come home, Oh come home, On this joyful, holy night.",
+                "number" : 4
+            }
+        ],
+        "pitch" : "G"
+    },
+    {
+        "chorus" : "",
+        "pitch" : "C",
+        "startingNote" : "Sol",
+        "title" : "To Us a Child of Hope is Born",
+        "verses" : [
+            {
+                "verse" : "To us a child of hope is born, To us a Son is giv’n, Him shall the tribes of earth obey, Him, all the hosts of heav’n.",
+                "number" : 1
+            },
+            {
+                "number" : 2,
+                "verse" : "His name shall be the Prince of Peace, Forevermore adored. The Wonderful, the Counselor, The great and mighty Lord. "
+            },
+            {
+                "verse" : "His pow’r, increasing, still shall spread, His reign no end shall know; Justice shall guard His throne above And peace abound below.",
+                "number" : 3
+            },
+            {
+                "number" : 4,
+                "verse" : ""
+            }
+        ]
+    },
+    {
+        "pitch" : "A",
+        "startingNote" : "Sol",
+        "verses" : [
+            {
+                "verse" : "Away in a manger, no crib for a bid. The little Lord Jesus laid down His sweet head. The stars in the sky- - looked down where He lay; the little Lord Jesus asleep on the hay.",
+                "number" : 1
+            },
+            {
+                "number" : 2,
+                "verse" : "The cattle are lowing; the poor baby wakes. But little Lord Jesus no crying He makes. I love thee, Lord Jesus, look down from the sky, and stay by my cradle till morning is nigh."
+            },
+            {
+                "number" : 3,
+                "verse" : "Be near me, Lord Jesus, I ask Thee to stay close by me forever, and love me, I pray. Bless all the dear children in Thy tinder care, and take us to heaven, to live with Thee there."
+            },
+            {
+                "number" : 4,
+                "verse" : ""
+            }
+        ],
+        "chorus" : "",
+        "title" : "Away in a Manger"
+    },
+    {
+        "title" : "A House Made of Clay",
+        "startingNote" : "Sol",
+        "verses" : [
+            {
+                "number" : 1,
+                "verse" : "How fragile my existence here in this world of toil and tears!  For eternity is just a breath away; I’m living here in sin’s domain; my whole life I’ve felt it’s pain, Because I live in a house made of clay."
+            },
+            {
+                "verse" : "I’m just a pilgrim passing by soon I’ll bid this world goodbye, I can only stay awhile then move away; This earthly house will soon grow old; storms will come and take their toll, Because I live in a house made of clay.",
+                "number" : 2
+            },
+            {
+                "verse" : "I love this house God gave to me; it was made so splendidly! It’s so fine I’d live forever more to stay; But time will pass, and it wont last; it will surely tumble down, Because it’s only a house made of clay.",
+                "number" : 3
+            },
+            {
+                "number" : 4,
+                "verse" : ""
+            }
+        ],
+        "chorus" : "My Lord is building me a home that’s eternal, In a land that’s free from sin there’s no decay; He’s coming soon to take me there; then these tears, this pain and care, I’ll leave behind in this house made of clay.",
+        "pitch" : "D"
+    }
+]
